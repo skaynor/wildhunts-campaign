@@ -65,9 +65,21 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'resourceSidebar',
             position: 'left',
             label: 'Resources',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'loreSidebar',
+            position: 'left',
+            label: 'Lore',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'playersSidebar',
+            position: 'left',
+            label: 'Players',
           },
           {
             href: 'https://github.com/skaynor/wildhunts-campaign',
@@ -85,6 +97,8 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  plugins: [require.resolve('docusaurus-lunr-search')],
 };
 
 export default config;
