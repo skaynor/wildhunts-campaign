@@ -41,4 +41,4 @@ This weapon retains all previous rarities weapon properties in addition to the f
 
 *You gain a +3 bonus on attacks and damage rolls; and +3 AC while shield is equipped.*
 
-This weapon retains all previous rarities weapon.
+This weapon retains all previous rarities weapon properties.

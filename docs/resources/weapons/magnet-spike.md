@@ -39,7 +39,7 @@ You can use this property a number of times equal to your Strength or Dexterity 
 
 ## Very Rare
 
-**You gain a +2 bonus on attacks and damage rolls.**
+*You gain a +2 bonus on attacks and damage rolls.*
 
 This weapon retains all previous rarities weapon properties in addition to the following:
 

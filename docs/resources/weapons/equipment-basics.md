@@ -76,7 +76,7 @@ When you want to upgrade your armor consult the table below. Once you have the c
 | Very Rare  | Heavy Armor Sphere | 15                | 6,000 gp  |
 | Legendary  | Royal Armor Sphere | 20                | 24,000 gp |
 
-*\*Some creature materials will state that it is a* **"rarity" armor crafting material**, *these can be used in place of the resources listed in the table above.*
+*\*Some creature materials will state that it is a* ***"rarity" armor crafting material***, *these can be used in place of the resources listed in the table above.*
 
 ### Shields
 
