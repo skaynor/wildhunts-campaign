@@ -10,34 +10,11 @@ When you aren't out of quests or progressing the plot, there are plenty of new d
 
 Sometimes it is easier to hunt alone. This activity gives a character the chance to obtain some extra materials from creatures.
 
-<!---
-
-| Character Level | Medium Encounter | Hard Encounter | Deadly Encounter |
-| :-------------: | :--------------: | :------------: | :--------------: |
-| 1               | CR 0             | CR 1/4         | CR 1/4           |
-| 2               | CR 1/8           | CR 1/2         | CR 1             |
-| 3               | CR 1/2           | CR 1           | CR 2             |              
-| 4               | CR 1             | CR 2           | CR 2             | 
-| 5               | CR 2             | CR 3           | CR 4             | 
-| 6               | CR 2             | CR 3           | CR 4             | 
-| 7               | CR 3             | CR 4           | CR 4             | 
-| 8               | CR 3             | CR 4           | CR 5             | 
-| 9               | CR 3             | CR 4           | CR 5             | 
-| 10              | CR 4             | CR 5           | CR 6             |
-| 11              | CR 4             | CR 6           | CR 7             |
-| 12              | CR 5             | CR 7           | CR 8             |
-| 13              | CR 5             | CR 7           | CR 8             |
-| 14              | CR 6             | CR 7           | CR 8             |
-| 15              | CR 6             | CR 8           | CR 9             |
-| 16              | CR 7             | CR 8           | CR 10            |
-| 17              | CR 8             | CR 9           | CR 11            |
-| 18              | CR 8             | CR 10          | CR 11            |
-| 19              | CR 8             | CR 11          | CR 12            |
-| 20              | CR 9             | CR 12          | CR 13            |
-
--->
-
 **Resources.** This activity requires one workweek of effort plus 100 gp to pay for research and supplies to hunt a medium. A character can hunt a hard encounter for 150 gp to cover expenses, or 200 gp for a deadly encounter.
+
+:::note Solo Hunt Pricing
+The cost of the hunt can be negotiated with the GM, but the difficulty of the encounter will change accordingly.
+:::
 
 **Resolution.** The character must make a series of checks, with the DC for all the checks determined by the difficulty of the encounter. The chosen DC for medium is equal to the creature’s carve DC. A hard encounter is the creature’s carve DC +3 and deadly is the creature’s carve DC +6. Successful completion of the hunt yields a number of materials, as shown on the Loot Value table.
 
@@ -51,8 +28,12 @@ If two checks are successful, the hunt is a partial success, netting the charact
 
 If all three checks are successful, the character earns three materials from the creature. Roll on the loot table for each material to determine which materials are obtained.
 
-:::tip Solo Hunt Table
-The table in the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) (p.55) shows the maximum CR a character can hunt depending on their level and difficulty they choose. Once they choose their difficulty, they can then pick the creature they are hunting.
+:::note Solo Hunt Table
+The table in the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) (p.55) or the [Appendix](resources/appendix/solo-hunt-table.md) shows the maximum CR a character can hunt depending on their level and difficulty they choose. Once they choose their difficulty, they can then pick the creature they are hunting.
+:::
+
+:::tip Alternative Checks
+At the GM's discretion, you can attempt alternative checks for the hunt. For example a spellcaster may want to attempt a Arcana (Intelligence) check instead of a Strength (Athletics) or Dexterity (Stealth) check for attacking the monster. However, all solo hunts require Wisdom (Perception) and Intelligence (Investigation) checks.
 :::
 
 ## Trenya
@@ -60,6 +41,10 @@ The table in the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9
 Trenya travels to various regions in his boat. A character can travel with Trenya on adventures. Trenya can help gather items for hunters, some of which can only be obtained through him. Trenya is a great way to gather materials for upgrading weapons and armor.
 
 **Resources.** This activity requires one workweek of effort and the character chooses the location for the adventure. The character has a choice between these locations: snowy mountains, jungle, desert, or swamp. Once the location is set, the character pays Trenya 200gp, 500gp, or 1500gp.
+
+:::note Trenya Pricing and Items
+The cost to hire Trenya can be negotiated with the GM, but the difficulty of the checks will change accordingly. Items available in each table could change depending on the region in which the request is made as well as what is needed by the party, as determined by the GM.
+:::
 
 **Resolution.** Depending on the location and how much the character spent they will need to make a number of checks; a Strength (Athletics) check, a Dexterity (Stealth) check, an Intelligence (Investigation) check, a Wisdom (Perception) check, and a Charisma (Intimidation, Persuasion, or Deception) check. The character can only use each skill once and once they fail a check the adventure is over and they return home.
 
@@ -76,7 +61,7 @@ If all five checks are successful, the character rolls on each level of the tabl
 > *Some of the items listed on Trenya loot tables do not yet have a purpose. Either the creature's loot table has not been created as of yet, their purpose has not yet been determined, or they are junk that only has a gold value.*
 
 :::tip Trenya's Loot Tables
-The loot tables for Trenya can be found on the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) (p.56-57)
+The loot tables for Trenya can be found on the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) (p.56-57) or in the [Appendix](resources/appendix/trenya-loot-table.md).
 :::
 
 ## Sell Materials
@@ -109,40 +94,15 @@ Selling materials can be a difficult task at times. Demand is not always there a
 
 A character who has the time, the money, and the needed tools can use downtime collecting resources at the palico farm.
 
-**Resources.** This activity requires access to a farm run by
-felyne and melynx (typically found in any village or town), one
-workweek of effort plus a cost of 25 gp for access to the farm
-and tools required for the work.
+**Resources.** This activity requires access to a farm run by felyne and melynx (typically found in any village or town), one workweek of effort plus a cost of 25 gp for access to the farm and tools required for the work.
 
-**Resolution.** Choose a location stat block appropriate for
-your level or lower, and the area you are in. The character
-then chooses three resources to collect between: fish, insects,
-mushroom, or plants. The character can pick the same
-resource multiple times, but they cannot pick a resource that
-is not on the location stat block they chose. The character
-then makes three skill checks, one for each resource they
-chose. The DC is equal to the resource DC in the location
-stat block.
+**Resolution.** Choose a location stat block appropriate for your level or lower, and the area you are in. The character then chooses three resources to collect between: fish, insects, mushroom, or plants. The character can pick the same resource multiple times, but they cannot pick a resource that is not on the location stat block they chose. The character then makes three skill checks, one for each resource they chose. The DC is equal to the resource DC in the location stat block.
 
-The type of check they make depends on the resource they
-are attempting to obtain. For fish, they make a Strength
-(Athletics) or Dexterity (Sleight of Hand) check. For insects,
-they make a Dexterity (Sleight of Hand) or Wisdom (Nature)
-check. For mushrooms, they make a Wisdom (Nature) or
-Wisdom (Survival) check. For plants, they make a Wisdom
-(Nature) or Wisdom (Survival) check.
+The type of check they make depends on the resource they are attempting to obtain. For fish, they make a Strength (Athletics) or Dexterity (Sleight of Hand) check. For insects, they make a Dexterity (Sleight of Hand) or Wisdom (Nature) check. For mushrooms, they make a Wisdom (Nature) or Wisdom (Survival) check. For plants, they make a Wisdom (Nature) or Wisdom (Survival) check.
 
-For each successful check, the character rolls on the
-location stat blocks resource table, gaining the resource
-listed.
+For each successful check, the character rolls on the location stat blocks resource table, gaining the resource listed.
 
-**Complications.** Complications while farming usually relate
-to the maintenance of the tools to gather the resources.
-Whenever a character starts a workweek on the palico farm,
-there is a 10 percent chance of one of the tools being
-unavailable due to maintenance. Roll on the complication
-table to determine why certain resources can't be collected
-this workweek.
+**Complications.** Complications while farming usually relate to the maintenance of the tools to gather the resources. Whenever a character starts a workweek on the palico farm, there is a 10 percent chance of one of the tools being unavailable due to maintenance. Roll on the complication table to determine why certain resources can't be collected this workweek.
 
 | d4  | Complication |
 | :-: | :----------- |
@@ -150,6 +110,3 @@ this workweek.
 | 2   | The bugnet is filled with more holes than actual netting. The character can't collect insects. |
 | 3   | The fields were just seeded, there are currently no plants to collect. |
 | 4   | A mosswine got into the mushroom cave and ate every last mushroom. The character can't collect mushrooms to do this. |
-
-
-
