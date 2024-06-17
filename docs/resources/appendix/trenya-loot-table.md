@@ -18,7 +18,7 @@
 | Level    | D%  | Desert |
 | :------: | :-: | :----- |
 | General  | d6  | Insect Husk, Acid (vial), Fishing Lure (Tuna), Dung, Fire Herd, Meat (Poisoned) |
-| Mineral  | d4  | Bogos Binted, Earth Crystal, Ice Crystal, Hard Armor Sphere |
+| Mineral  | d4  | Armor Sphere, Earth Crystal, Ice Crystal, Hard Armor Sphere |
 | Fish     | d4  | Sushifish, Burst Arrowana, Pin Tuna, Small Golden Fish |
 | Insect   | d2  | Flashbug, Snakebee Larva |
 | Monster  | d4  | Genprey Fang, Piscine Fang, Giggi Stinger, Sm. Hermitaur Shell |
