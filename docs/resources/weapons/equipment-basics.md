@@ -69,7 +69,7 @@ A class that does not use armor such as a barbarian, monk, or some spellcasters 
 
 When you want to upgrade your armor consult the table below. Once you have the correct number of resources, a smithy will upgrade your armor for the cost listed. It takes one week to complete the process.
 
-| **Rarity** | **Resource\***     | **Amount Needed** | **Cost**  |
+| **Rarity** | **Resource***     | **Amount Needed** | **Cost**  |
 | :--------: | :------------:     | :---------------: | :------:  |
 | Uncommon   | Armor Sphere       | 5                 | 500 gp    |
 | Rare       | Hard Armor Sphere  | 10                | 1,500 gp  |
@@ -143,5 +143,5 @@ If the material grants an effect such as extra damage on weapon attacks, or requ
 There are many materials you may find while hunting monsters. These cosmetic materials have no mechanical benefit, but change your characters appearance in some way. You have one cosmetic slot in either your armor or weapon (your choice) that you can place a cosmetic material into or replace when you find a different that suits your character a bit more.
 
 :::tip
-For the Weapon & Armor Pricing chart, please reference the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) (p.63).
+For the Armor & Weapon Pricing chart, please reference the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) (p.63) or in the [Appendix](resources/appendix/weapon-armor-pricing.md).
 :::
