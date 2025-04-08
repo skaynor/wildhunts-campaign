@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # HELP
 
-This is a brief summary of the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) by [Amellwind](https://www.reddit.com/user/Amellwind/). 
+This is a brief summary of the portions of [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) by [Amellwind](https://www.reddit.com/user/Amellwind/) used in the Preyline campaign. 
 
 This website is not a direct replacement to the original guide, but a collection of information important to character creation and other aspects of this campaign.
 
