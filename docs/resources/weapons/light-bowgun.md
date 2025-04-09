@@ -87,7 +87,7 @@ An ammo vendor may be located in a general store, near a blacksmith, or perhaps 
 | *Demon Ammo. (1)*      | 8 gp  | 1        |
 | *Dragon Ammo. (10)*    | 3 gp  | 10       |
 | *Flaming Ammo. (10)*   | 3 gp  | 10       |
-| *Normal Ammo. (20)*    | 1 gp  | 100      |
+| *Normal Ammo. (20)*    | 1 gp  | Unlimited* |
 | *Paralysis Ammo. (1)*  | 4 gp  | 1        |
 | *Pierce Ammo. (10)*    | 2 gp  | 10       |
 | *Poison Ammo. (1)*     | 4 gp  | 3        |
@@ -99,6 +99,8 @@ An ammo vendor may be located in a general store, near a blacksmith, or perhaps 
 | *Thunder Ammo. (10)*   | 3 gp  | 10       |
 | *Tranq Ammo. (1)*      | 50 gp | 20       |
 | *Water Ammo. (10)*     | 3 gp  | 10       |
+
+\*Up to the GM on how much you can hold.
 
 ### Variant: Crafting Ammunition
 

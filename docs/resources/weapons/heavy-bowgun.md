@@ -74,7 +74,7 @@ An ammo vendor may be located in a general store, near a blacksmith, or perhaps 
 | Type                | Cost  | Capacity |
 | :------------------ | ----: | -------: |
 | *Cluster Ammo. (1)*   | 5 gp  | 2        |
-| *Normal Ammo. (20)*   | 1 gp  | 100      |
+| *Normal Ammo. (20)*   | 1 gp  | Unlimited* |
 | *Paralysis Ammo. (1)* | 4 gp  | 1        |
 | *Pierce lvl 1. (10*)  | 1 gp  | 10       |
 | *Pierce lvl 2. (10*)  | 2 gp  | 10       |
@@ -87,6 +87,8 @@ An ammo vendor may be located in a general store, near a blacksmith, or perhaps 
 | *Sticky Ammo. (1)*    | 1 gp  | 2        |
 | *Tranq Ammo. (1)*     | 50 gp | 20       |
 | *Wyvern Ammo. (1)*    | 10 gp | 1        |
+
+\*Up to the GM on how much you can hold.
 
 ### Variant: Crafting Ammunition
 
