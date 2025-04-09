@@ -9,14 +9,14 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Monster Hunter 5e',
-  tagline: 'Wild Hunts Campaign',
+  tagline: 'Preyline',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://skaynor.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/wildhunts-campaign/',
+  baseUrl: '/preyline/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.

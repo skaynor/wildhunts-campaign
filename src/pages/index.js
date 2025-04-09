@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Home`}
-      description="Wild Hunts Campaign">
+      description="Preyline Campaign">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
