@@ -19,7 +19,7 @@ sidebar_position: 21
 
 ## Nonmagical
 
-*50 gp, 1d10 piercing, 18 lb., ammunition (range 100/400), heavy, loading, two-handed*
+*50 gp, 1d10 piercing, 18 lb., ammunition (range 100/400), heavy, loading, two-handed.*
 
 **Ammo Available.**
 

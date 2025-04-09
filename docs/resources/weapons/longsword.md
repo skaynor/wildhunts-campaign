@@ -40,6 +40,6 @@ sidebar_position: 11
 
 ## Legendary
 
-*You gain a +3 bonus on attacks and damage rolls*
+*You gain a +3 bonus on attacks and damage rolls.*
 
 **Spirit Gauge Upgrade.** When you hit with this weapon, you now gain 3 spirit and you can spend this spirit on all previous rarities spirit gauge options.

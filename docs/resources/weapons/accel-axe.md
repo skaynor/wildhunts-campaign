@@ -11,7 +11,7 @@ sidebar_position: 2
 
 ## Nonmagical
 
-*50 gp, 1d12 slashing, 8 lb., heavy, two-handed*
+*50 gp, 1d12 slashing, 8 lb., heavy, two-handed.*
 
 ## Uncommon
 

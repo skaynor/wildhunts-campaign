@@ -23,7 +23,7 @@ sidebar_position: 14
 
 *You gain a +1 bonus on attacks and damage rolls.*
 
-### Single Mode.
+### Single Mode
 
 You gain use of the following properties while the rapier is in single mode.
 
@@ -31,13 +31,14 @@ You gain use of the following properties while the rapier is in single mode.
 
 **Fortify.** As part of the attack action, if you are touching the ground, you can magically create a 3-foot tall, 5-foot wide, 1- foot thick wall, in front of you. The wall is made of the same materials as the ground you are standing on, can provide half cover to a Medium or smaller creature, and remains for 1 minute or until it is destroyed (AC equal to your 8 + your proficiency bonus + your Dexterity and hit points equal to 1d8 + your Strength Modifier). You can have a number of these walls equal to your Constitution modifier, destroying the oldest wall if you create a wall when already at your maximum number. You can't use this property if you have already used another weapon property as part of this attack action.
 
-### Splint Mode.
+### Splint Mode
 
 You gain use of the following properties while the rapier is in splint mode.
 
 **Addle.** When you hit a creature with this weapon, you can muddle its vision reducing its next attack and damage roll by 1d4. You can use this property a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
 **Splint Stance.** When you switch into splint mode, choose a one of the following stances that you take until the end of your next turn (unless otherwise specified):
+
 - **Stymie Stance.** When you hit a creature with this weapon, you increase the maximum duration of any condition effecting it by 6 seconds.
 - **Saboteur Stance.** Before the start of your next turn, when a creature hit by this weapon must make a saving throw against a condition, roll a d4 and subtract the number from the saving throw.
 - **Elemental Stance.** Choose damage types between: cold, fire, lightning, poison. Your rapiers now deal that damage type instead of piercing for 1 minute, or until you switch stances.
@@ -48,7 +49,7 @@ You gain use of the following properties while the rapier is in splint mode.
 
 This weapon retains all previous rarities weapon properties in addition to the following:
 
-### Single Mode.
+### Single Mode
 
 You gain use of the following properties while the rapier is in single mode.
 
@@ -56,7 +57,7 @@ You gain use of the following properties while the rapier is in single mode.
 
 **Riposte.** When a melee attack would hit you, you can use your reaction to make an attack roll with your rapier. If the result of this roll equals or exceeds the attacker's attack roll, its attack misses.
 
-### Splint Mode.
+### Splint Mode
 
 You gain the following new stance and stance upgrade while the rapier is in splint mode.
 
@@ -88,7 +89,7 @@ This weapon retains all previous rarities weapon properties in addition to the f
 
 **Riposte Upgrade.** If your attack roll also exceeds the attacker's AC, roll the weapon's damage and deal half the damage rolled to the attacker.
 
-### Splint Mode.
+### Splint Mode
 
 You gain use of this additional properties while the rapier is in splint mode.
 

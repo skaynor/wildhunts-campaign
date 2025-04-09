@@ -29,7 +29,7 @@ sidebar_position: 4
 
 *You gain a +2 bonus on attacks and damage rolls.*
 
-**Archdemon Mode (Demon Mode Upgrade).** You can use demon mode one extra time (4 total) between long rests and its movement speed bonus increases to 15 feet. 
+**Archdemon Mode (Demon Mode Upgrade).** You can use demon mode one extra time (4 total) between long rests and its movement speed bonus increases to 15 feet.
 
 **Inflict Upgrade.** Your save DC for condition causing effects by this weapon is now increased by 2.
 

@@ -74,6 +74,7 @@ sidebar_position: 20
 - *Twilight Ammo.* The target must succeed on a Constitution saving throw again your ammo save DC or be blinded until the end of its next turn.
 
 **Modifications.** You have learned the in's and out's of your firearms and learned how to modify them for the challenge ahead. As part of a short rest, you can change out the modification on your repeaters with another. Each repeater can have a modification, but it can't have the same modification as the other repeater. The following modifications are available on a very rare dual repeaters:
+
 - *Demolition Sights.* This repeater deals double damage to objects and structures.
 - *Scoped Sights.* Your normal and maximum attack range increases by 30 feet.
 - *Lightweight Frame.* Your movement speed is increased by 15 feet when you have 3 or less ammo in the chamber.
@@ -86,6 +87,7 @@ sidebar_position: 20
 **Extended Empowerment.** Your weapon is now empowered whenever your reload your repeaters so long as their is a hostile creature within your weapons normal attack range.
 
 **Additional Modifications.** Your repeaters can be modified with these additional options:
+
 - *Capacitive Magazine.* When you cast a spell or use a class feature roll a d20. On a 10 or higher, up to 4 pieces of the current ammo type magically appear in the repeater's chamber.
 - *Lucky Magazine.* This repeater's critical hit range is increased by 1 when you have 3 or less ammo remaining in the chamber.
 - *Suppressor.* If you miss a target with an attack from this repeater while hiding, your position is not exposed and you remain hidden. Though the target may be aware of the danger and the rough direction it came from.

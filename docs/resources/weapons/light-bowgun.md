@@ -15,7 +15,8 @@ sidebar_position: 22
 
 **Overheat.** When you hit a creature with this weapon, the next attack you make with it only deals a maximum of 1d4 damage, in addition to any other effects from the ammo used for the attack. *This attack does not gain any extra damage from any other source, including ability score modifiers, bonus elemental damage, the sharpshooter feat, hunter's mark and spells like it, other spell effects, etc.* After making this attack, this property resets.
 
-#### Examples of Four Attacks per Turn:
+### Examples of Four Attacks per Turn
+
 - **Hit** *(1d4+extra damage)* | **Hit** *(1d4)* | **Hit** *(1d4+extra damage)* | **Hit** *(1d4)*
 - **Miss** (0) | **Hit** *(1d4+extra damage)* | **Hit** *(1d4)* | **Hit** *(1d4+extra damage)*
 - **Miss** (0) | **Hit** *(1d4+extra damage)* | **Miss** (0) | **Hit** *(1d4+extra damage)*
