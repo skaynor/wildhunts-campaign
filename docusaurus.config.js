@@ -73,13 +73,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'loreSidebar',
             position: 'left',
-            label: 'Lore',
+            label: 'Lore (WIP)',
           },
           {
             type: 'docSidebar',
             sidebarId: 'playersSidebar',
             position: 'left',
-            label: 'Players',
+            label: 'Players (WIP)',
           },
           {
             href: 'https://github.com/skaynor/wildhunts-campaign',
