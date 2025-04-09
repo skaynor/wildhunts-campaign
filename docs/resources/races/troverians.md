@@ -4,15 +4,17 @@ sidebar_position: 13
 
 # Troverians
 
-Known as the forgefoots in ancient times, the troverians took their new name after the reemergence. Unlike the dwarves who were molded by stone and minerals by the all-father, the troverians were born from humans who worshiped the creatures of the earth, and were the last to be ascended by Io before his sacrifice.
+Known in pre-collapse times as “Forgefoots,” the people now called Troverians adopted their current name in the era of rediscovery. Unlike dwarves—who are often steeped in mythic origins—Troverians are believed to have descended from early human settlers who adapted to deep, rugged environments. Generations spent beneath the surface or among isolated mountain colonies changed them physically and mentally. They developed resilient bodies, sharp instincts, and a deep connection to the mechanical and mineral worlds around them.
 
-The troverians were an instrumental part of the ancient civilization, working with gnomes and dwarves and combining their technology with their own. It was this adaptability that led to the creation of the equal hunter weapons. It was one of their greatest accomplishments and greatest regrets. The equal hunter weapons made life easier for the ancient civilization, but also was the spark that would eventually begin the Great Dragon War.
+Troverians were vital to the height of the ancient civilization’s technological growth. Skilled in practical innovation and hybridized engineering, they often worked alongside other crafting races to merge old-world metallurgy with cutting-edge systems. Their influence led to the creation of highly autonomous constructs and machinery that outlasted even their creators. While many Troverians still celebrate this ingenuity, some carry unease over the long-reaching consequences of that era’s unchecked advancement.
 
-The troverians live in the mountains and hills, in recent years they were welcomed to the village of Harth where they work together with the dwarves to develop new weapons and items for the Hunters Guild. Most troverian adventurers have some sort of smithing or artisan skill, and typically join one of the many factions to find hidden technology and rare materials that they can bring back home.
+Today, Troverians maintain strongholds in remote highlands, underground habitats, and reclaimed industrial ruins. In recent years, some have formed joint communities with other artisan-focused peoples, where they collaborate on the development of advanced tools, portable energy sources, and modular weaponry for explorers and recovery crews. These enclaves operate with quiet efficiency, relying on age-old methods adapted for modern realities.
+
+Adventuring Troverians almost always carry a trade with them—be it smithing, machining, electronics, or salvagecraft. Many join expeditions to locate lost technology or extract rare materials, driven by both personal craft and a sense of obligation to their communities. Though they may appear gruff or methodical, Troverians take great pride in what they build, and in their eyes, a life well-forged is the greatest legacy one can leave behind.
 
 ## Troverian Traits
 
-Troverians resemble short, slightly stockier, and bulkier humans and are commonly mistaken for dwarves. Their skin usually tanned, Troverian males grow massive beards and moustaches, wearing them in odd but traditional shapes. Female Troverians lack facial hair all together, resembling human females with a smaller but sturdier frame.
+Troverians resemble short, slightly stockier, and bulkier humans and are commonly mistaken for dwarves. Their skin usually tanned, Troverians males grow massive beards and moustaches, wearing them in odd but traditional shapes. Female Troverians lack facial hair all together, resembling human females with a smaller but sturdier frame.
 
 - ***Ability Score Increase.*** Your Strength score increases by 2 and your Constitution score is increased by 1. Age. Troverians mature at the same rate as humans but live a few years less.
 - ***Alignment.*** Troverians care most of all about wanting to work. As such, they are usually neutral or chaotic good.

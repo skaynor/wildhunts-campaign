@@ -47,4 +47,3 @@
 *\*\*Shields are not sold by the smithy, they are part of specific weapon purchases.*
 
 *\*\*\*+1, +2, or +3 armor is exceedingly rare and often won't be available at the smithy.*
-

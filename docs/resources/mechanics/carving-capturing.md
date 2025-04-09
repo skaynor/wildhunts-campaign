@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Carving & Capturing
 
-Obtaining materials to upgrade your weapon and armor is a core part of Monster Hunter. The two most common ways to obtain materials are by carving materials off your kills or capturing larger creatures in the field. Occasionally, a hunter may get lucky and come across discarded material in the field, possibly from a creature's shedding or what was left over from another creature's kill. There is rumored to be a tradesman who travels from location to location and offers materials for a price.
+Obtaining materials to upgrade your weapon and armor is a core part of Monster Hunter. The two most common ways to obtain materials are by carving materials off your kills or capturing larger creatures in the field.
 
 ## Carving
 
@@ -20,7 +20,11 @@ When you roll a natural 20 on a Carve check, you roll an additional d20 and add 
 
 ## Capturing
 
-Certain creatures can be captured. A creature that can be captured will have a captured section of their loot table. A captured creature may provide loot that you are unable to obtain, an increased or decreased chance to obtain certain loot that you may have gotten from carving. When you capture a creature, you obtain a number of materials as labeled in the creature's loot table. No check is made, but the material is not gathered until you return to town.
+Certain creatures can be captured. A creature that can be captured will have a captured section of their loot table. A captured creature may provide loot that you are unable to obtain, an increased or decreased chance to obtain certain loot that you may have gotten from carving. When you capture a creature, you obtain a number of materials as labeled in the creature's loot table. No check is made, but the material is not gathered until you give it to someone for harvest.
+
+:::tip Capture Requests
+While normally your only job is to eliminate monsters, clients may approach you with a request to instead capture a specific monster. These requests could come from scientists, black market traders, or even the local government. Be on the lookout for these requests as they may provide you with a unique opportunity to obtain rare materials.
+:::
 
 ### Tranq Bomb Rules
 
@@ -28,6 +32,6 @@ Certain creatures can be captured. A creature that can be captured will have a c
 > You can hit a creature with up to three tranq bombs or ammo. Adding the total of each tranq bomb or ammo together. If the creature does not fall unconscious after a third tranq bomb or ammo, it becomes immune to their effect for 24 hours.  
 > A creature that does not have a capture loot table is immune to tranq bombs or ammo effects.
 
-:::tip 
+:::tip Loot Tables
 At the beginning of the campaign, you will not know what the loot tables are for each creature. The more you play and learn about the world, you will learn the loot tables of more creatures. (Either through trial and error or with help from researchers you meet)
 :::

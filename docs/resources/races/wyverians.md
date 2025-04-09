@@ -4,17 +4,15 @@ sidebar_position: 15
 
 # Wyverians
 
-While wyverians superficially resemble humans, they actually descend from the first wyverns. After time began, the Fifth Aspect Eldath sought to expand the races' understanding of the Fives creations. As such, she molded the first wyverians from those wyverns who were up to the task.
+The Wyverians are not human—though they might appear it in silhouette. Beneath their slender frames and sharp features lies an ancient, elegant biology rooted not in man, but in Wyverns—one of the first stable forms of life shaped by the laws of post-time.
 
-At the end of the Great Dragon War, the wyverians were one of the few races that survived the end of the ancient civilization. Even so, only a handful of them remained. Seeking to prevent the atrocities that occurred during the Great Dragon War, these ancient wyverians made a pact to hide their knowledge for the rest of the world, but they would also guide the lost and teach them how to be one with nature.
+Unlike the entropy-born monsters created by the Seeds, Wyverians were born of intention. They are the enduring counter-rhythm to the Seeds’ discord. Where the Seeds fracture and mutate, the Wyverians preserve, harmonize, and remember. Their very existence is an act of cosmic resistance.
 
-The new wyverians, who came about after the reemergence, call the village of Cathar home. Their population remains small due to the fact that they reproduce less often than many of the other races, but each wyverian seeks to better the world. It is rare to see an evil wyverian, so much so, that there has never been one in recorded history.
-
-When these new wyverians reach adolescence they leave Cathar and head out into the world on a journey of self discovery. Many of these wyverians return to Cathar a few years after their journey began. Others join the Hunters Guild; become academics, joining the Wycademy or the Elder Dragon Observation Team; or become hermits and sages, protecting the balance of nature in the territory they call home. Due to their long life span many of them who never return to Cathar become chiefs of villages, lead researchers, and other positions of respect and power in their old age.
+According to recovered fragments of pre-collapse records and the oral codes of the Wyverians themselves, they were shaped by the Fifth Aspect: Eldath, a being of unknowable patience and deep design. From the primordial wyverns that survived the universe’s first convulsions, Eldath refined a species capable not of destruction, but of interpretation, guidance, and connection.
 
 ## A Wyverian's Thinking
 
-Wyverians think differently than most races, perhaps in part due to their increased lifespan, and are often considered more intelligent and rational. Some Wyverians have an extensive education, more than most races can learn in a feasible timespan, and are versed in multiple subjects. They are also more attuned to nature, which they greatly respect. They are peaceful and prefer to avoid conflict if possible, but still, recognize the value of Hunters. In fact, they were the first Hunters, but eventually gave way to the Hunter's Guild and transitioned into a supporting role. There are very few Wyverian Hunters today and are considered rarities. Wyverian humor is strange by human standards.
+Wyverians think differently than most races, perhaps in part due to their increased lifespan, and are often considered more intelligent and rational. Some Wyverians have an extensive education, more than most races can learn in a feasible timespan, and are versed in multiple subjects. They are also more attuned to nature, which they greatly respect. They are peaceful and prefer to avoid conflict if possible. Wyverian humor is strange by human standards.
 
 ## Wyverian Traits
 
@@ -39,7 +37,7 @@ Modern wyverians peacefully coexist with humans and often live among them, espec
 
 ### Ancient
 
-Ancient wyverian are the wyverian who survived the Great Dragon War and may even remember the time of the ancient civilization. They are small in stature, sometimes a bit stubborn, but always seek to help those lost in the world. Ancient wyverians are usually between 600 and 1000 years old.
+They are small in stature, sometimes a bit stubborn, but always seek to help those lost in the world. Ancient wyverians are usually between 600 and 1000 years old.
 
 - ***Ability Score Increase.*** Your Constitution score increases by 1.
 - ***Ancient Magic.*** You know the druidcraft cantrip. When you reach 3rd level, you can cast the barkskin spell once per day. When you reach 5th level, you can also cast the earthbind spell once per day. Intelligence is your spellcasting ability for these spells.

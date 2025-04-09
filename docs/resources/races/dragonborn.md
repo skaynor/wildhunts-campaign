@@ -4,13 +4,13 @@ sidebar_position: 2
 
 # Dragonborn
 
-In the time of the ancient civilization the dragonborn were known far and wide, as the most devout and honorable race of the time. The original dragonborn were known to be humans who had ascended, by the grace of Io, to a state of body and mind that closely resembled the original image of the Five. These dragonborn excelled at all they did, becoming great heroes, community leaders, head of clergies and other research institutions of the ancient civilization. By the end of the Great Dragon War, most of the dragonborn had been wiped out with many of the elder dragonborn bloodlines going extinct with their elder dragon brethren. After the reemergence dragonborns were a rare sight for villages and even some towns. Those that lived in cities were typically well respected noble families that could trace their heritage back to the ancient civilization. New dragonborns that weren't born from these families were almost unheard of. It was a rare occasion when a person of any race proved themselves worthy to an Aspect, and were granted the gift as a reward. In Tiamat's case, she lorded the ascension over her followers, only granting the gift to those who bring her priceless artifacts, great wealth, or progress her plans beyond her expectations. Those who fail her, or request the ascension, instead are typically turned into kobolds.
+The draconic traits of the Dragonborn are not gifts from deities, but echoes of entropy-formed apex predators—monsters designed by the Seeds to consume and collapse ecosystems. Dragonborn blood carries the genetic memory of these creatures: elemental breath, resilient flesh, and instinctual dominance. Though stable, they are still mutative. Some Dragonborn develop changes across generations; others awaken one day with a new scale pattern, a second heartbeat, or fragmented visions of burning planets.
 
-Dragonborn of any age have a well-known dedication to honor, but how deeply rooted this trait is remains debatable. However, all dragonborn tended to view all living things, even hated enemies, as deserving of courtesy and respect. To dragonborn, honor was more than a word and was often considered more important than life itself. Cowardice was not simply undesirable among dragonborn, it was considered outright repulsive.
+Because of this, Dragonborn are often viewed with suspicion—or awe. Entire arcologies have banned them. Others elevate them as Saints of Survival or guardians against further Seed incursion. But to most, they are dangerous reminders that the Seeds can change people.
 
-Part of the roots of this honorable attitude lay in the dragonborn's drive for self-improvement. The draconic nature of dragonborn gave them a strong self-consciousness and a tendency for strong emotions. Both of these combined to make dragonborn particularly wanting for the approval of others. Dragonborn placed great value on the skill of an individual, including themselves. Failing at a task was anathema to dragonborn and as a result they could sometimes push themselves to unhealthy extremes of effort. This aspect of the dragonborn mind meant few of the race took a laid-back approach to any skill or ability, striving always to become the masters of a particular skill, and dragonborn respected those among other races who approached life in the same manner. As a result, most dragonborn adventurers came to their way of life through a desire to prove themselves and win respect from their brethren.
+There is no united Dragonborn culture. They are drifters, remnants, patched-in citizens of megacities and orbital habitats. Some live in self-imposed isolation, fearing their own biology. Others become mercenaries or corporate assets, trading their strength for protection or purpose.
 
-## Elder Dragonborn 
+## Elder Dragonborn
 
 The Elder Dragonborn are a dragonborn variant. You can allow a player to choose one of the following dragonborn ancestries. These ancestries replace the normal draconic ancestry a dragonborn can choose in addition to replacing other traits as listed. These ancestries also provide the damage they are resistant to, if the draconic resistance trait is not replaced.
 
@@ -20,10 +20,10 @@ The alatreon dragonborn personality is matched only by its ability to harness th
 
 An alatreon dragonborn uses the dragonborn traits in the Player’s Handbook, with the following traits replacing the Ability Score Increase and Breath Weapon.
 
- - ***Ability Score Increase.*** Your Strength score increases by 2, and one other ability scores of your choice between Intelligence, Wisdom, or Charisma increases by 1.
- - ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. Draconic Resistance. You have resistance to one of the following damage types: cold, fire, necrotic.
- - ***Elemental Affinity.*** When you deal cold, fire, lightning, or necrotic damage, you can add your Intelligence, Wisdom, or Charisma modifier to the damage. You can use this trait a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
- - ***Menacing.*** You have advantage on saving throws against being frightened, and you gain proficiency in the Intimidation skill.
+- ***Ability Score Increase.*** Your Strength score increases by 2, and one other ability scores of your choice between Intelligence, Wisdom, or Charisma increases by 1.
+- ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. Draconic Resistance. You have resistance to one of the following damage types: cold, fire, necrotic.
+- ***Elemental Affinity.*** When you deal cold, fire, lightning, or necrotic damage, you can add your Intelligence, Wisdom, or Charisma modifier to the damage. You can use this trait a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
+- ***Menacing.*** You have advantage on saving throws against being frightened, and you gain proficiency in the Intimidation skill.
 
 ### Draconic Ancestry: Amatsu
 
@@ -34,7 +34,7 @@ An Amatsumagatsuchi dragonborn uses the dragonborn traits in the Player's Handbo
 - ***Ability Score Increase.*** Your Wisdom score increases by 2, and your Dexterity score increases by 1. Draconic Resistance. You have resistance to radiant
 damage.
 - ***Elder Dragon Magic.*** You know the gust cantrip. When you reach 3rd level, you can cast the thunderwave spell once, and it recharges after a long rest. When you reach 5th level, you can also cast the levitate spell once, and it recharges after a long rest. Wisdom is your spellcasting ability for these
-spells. 
+spells.
 - ***Glide.*** You always hover one to two inches off the ground. Moving through nonmagical difficult terrain costs you no
 extra movement.
 - ***Wind Barrier.*** You can use an action to summon a barrier of wind around you for 1 minute. While the barrier is active, you have half cover against range attacks, resistance to nonmagical ammunition, and disperse any fog like effect in a 5-foot radius around you. Once used, you can't use this trait
@@ -204,7 +204,7 @@ A nakarkos dragonborn uses the dragonborn traits in the Player's Handbook, with 
 
 ### Draconic Ancestry: Namielle
 
-Namielle dragonborn have large needle-shaped teeth, like a deep-sea fish, and may have multiple long whiskers that resemble jellyfish-like tendrils. Normally their body is colored black and a deep sea blue, accented by a vibrant red while parts of their face and limbs glow with a bioluminescent light that pulses with the colors of the rainbow. When they haven't spent time in the rain or in water, their scales dry out changing to a milky tan coloring.
+Samiel dragonborn have large needle-shaped teeth, like a deep-sea fish, and may have multiple long whiskers that resemble jellyfish-like tendrils. Normally their body is colored black and a deep sea blue, accented by a vibrant red while parts of their face and limbs glow with a bioluminescent light that pulses with the colors of the rainbow. When they haven't spent time in the rain or in water, their scales dry out changing to a milky tan coloring.
 
 A namielle dragonborn uses the dragonborn traits in the Player's Handbook, with the following traits replacing the Ability Score Increase, Draconic Resistance, and Speed traits.
 

@@ -4,8 +4,4 @@ sidebar_position: 1
 
 # New Mechanics
 
-Monster Hunter 5e adds new mechanics both in and out of combat to facilitate the experience of actually hunting a monster. Most of your combat encounters will happen during hunts in which you are trying to kill or capture a monster for a quest from the Hunter's Guild.
-
-Additionally, methods for gathering and using resources gathered from these hunts are added to further customize and raise the power of your character.
-
-New downtime activities have been added to fill in the time between hunts, and while most of this time will also be used for progressing the story of the campaign, your character can make use of these activities as long as they are in an area with resources to support them.
+Monster Hunter 5e adds new mechanics both in and out of combat to facilitate the experience of actually hunting a monster. While there is a whole "hunting" system, including resource gathering, downtime activities, and party roles, most of this campaign will be played as a traditional D&D campaign. Methods of gathering resources and improving your gear will be modified to fit within the traditional framework of D&D, and will be explained in the following sections.

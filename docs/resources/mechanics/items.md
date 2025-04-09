@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 # Monster Hunter Items
@@ -10,43 +10,43 @@ For full tables of item effects and prices, magical item effects and prices, and
 
 ## Shops
 
-There is a wide variety for shops in monster hunter, the most common of them are the Provision Stockpile, the Smithy, and the General Store. There are also traveling merchants that appear on occasion offering an assortment of items.
+There is a wide variety for shops in monster hunter, the most common of them are the Provision Stockpile, the Smithy, and the General Store. Items and services that can normally be found at these shops will be generalized to fit the setting of the campaign.
 
-### The Provision Stockpile
+## Selling Materials
 
-The provision stockpile appears in almost all cities, towns, and villages. Typically found within a guild hall and run by a guild receptionist. Characters that do not belong to the hunter's guild cannot purchase from the Provision Stockpile.
+Selling material can be a difficult task at times. Demand is not always there and even if you have a legitimate buyer for one you may still not get the price you are expecting.
 
-### The General Store
+### Resources
 
-The general store has all your basic lifestyle and hunter needs. Here you will find a variety of items, tools, and trinkets any person may use in their life along with a few standard items for hunting. Below are some of the items you may find in a general store.
+A character can find a buyer for a specific material by spending one day and 25gp, which is used to spread word of the desired sale. A character can pick up to 20 materials to sell at a time.
 
-### Traveling Merchants
+### Resolution
 
-Traveling Merchants are vendors who randomly visit towns for one day before heading off to their next destination. Their inventory is an assortment of random items, typically between 5-10 items. These can range from typical general store items to rarer monster materials. When a traveling merchant arrives it is up to the GM to determine what they might be selling.
-
-If the traveling merchant is selling monster materials, the price of the material can roughly be determined by the creatures CR as shown on the table below.
+A character who wants to sell materials must make a Charisma (Persuasion) check to determine what kind of offer comes in. The character can always opt not to sell, instead forfeiting the workweek of effort and trying again later. Use the Material Base Price and Material Item Offer tables below to determine the sale price.
 
 #### Material Base Price
 
-| Creatures CR level | Base Price |
-| :-:                | :-:        |
-| 0-3                | 100 gp     |
-| 4-8                | 400 gp     |
-| 9-13               | 2000 gp    |
-| 14-19              | 8,000 gp   |
-| 20+                | 20,000 gp  |
+| Creatures CR level | Base Price* |
+| :-:                | :-:       |
+| 0-3                | 25 gp     |
+| 4-8                | 100 gp    |
+| 9-13               | 500 gp    |
+| 14-19              | 2,000 gp  |
+| 20+                | 4,000 gp  |
 
-### The Smithy
+* *All materials are the same price from a creature base on its CR level.*
 
-A workshop designed to answer all equipment-related needs, the Smithy may be the most vital of facilities for any hunter. At the Smithy, hunters can not only purchase new weapons and armor, but they can upgrade their existing weapons and armor, allowing them to place additional creature materials into them. The Smithy also acts as a standard blacksmith for those around the town, providing them with items for everyday use.
+#### Material Item Offer
 
-### Ammo Vendor
-
-An ammo vendor may be located in a general store, near a blacksmith, or perhaps they have their own shop. A store may have a large supply of ammunition types or just a few of your DMs choice.
+| Check Total | Offer |
+| :-:         | :-:   |
+| 1-10        | 50% of base price  |
+| 11-20       | 100% of base price |
+| 21+         | 150% of base price |
 
 ## Combo List
 
-Many of the items found in the Monster Hunter Universe can be crafted using resources and materials found during your travels. Below you will find lists of items you can make with each tool, the required ingredients, how difficult it will be to make, and how much is created on a successful crafting check.
+Many of the items found in the Monster Hunter Universe can be crafted using resources and materials found during your travels. Below you will find lists of items you can make with each tool, the required ingredients, how difficult it will be to make, and how much is created on a successful crafting check. Some crafting materials will be generalized for this campaign, as things such as "Monster Bone" or "Monster Hide" are not as common on a space station.
 
 An item may appear more than once on any given list, requiring a different combination of items to craft. An item may also appear under two or more tools, in which case you may choose which tool you use to craft it.
 
@@ -70,50 +70,6 @@ Tools are not tied to a single ability, since proficiency with a tool represents
 
 Wisdom can be viewed as experience or natural talent with the tool. Think of it like a baker who doesn't measure their ingredients for a cake and adapts the recipe to what they think it should be, and the cake still ends up tasting amazing. While Intelligence can be used for the PC's retained knowledge or ability to follow instructions. This is the baker who follows the exact directions and the cake comes out exactly as expected.
 
-## Resources
-
-Below you will find a list of items a character can obtain from
-gathering resources while on a hunt. These resources range
-from bonepiles, to mushrooms. Many of them are crafting
-materials that can be combined together with other
-resources or monster materials to create useful items for you
-on your adventurers.
-
-While some resources may be used for crafting, some also
-have other uses or effects that can be found in the details/use
-section of the resource. Finally some resources are just rare
-and sought after. These can typically be sold to the research
-fleet if nobody else is willing to buy them.
-
 :::tip Resource Tables
 For full resource tables, please reference the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) (pg.76-80)
 :::
-
-### Bonepiles
-When you go searching for bones, you will typically find them only in lairs. You may also find them, rarely, out in the open depending on the environment you are in.
-
-When you succeed on an Intelligence (Investigation) check to locate a bonepile in an area, You must then make a Wisdom (Nature) or Intelligence (History) check against the locations bonepile resource DC. On a success, you roll on the locations bonepile resources table.
-
-### Fish
-
-When you succeed on an Intelligence (Investigation) check to locate a fishing spot,you must then make a Strength (Athletics) or Dexterity (Sleight of Hand) check against the location's Fish resource DC. On a success, you roll on the location's fish resources table.
-
-### Insects
-
-When you succeed on an Intelligence (Investigation) check to locate insects of interest in an area, you must then make a Dexterity (Sleight of Hand) or Wisdom (Nature) check against the locations Insect resource DC. On a success, you roll on the locations insect resources table.
-
-### Minerals
-
-When you go searching for minerals, you will typically find them only in caves. You may also find them, very rarely, on rocky outcroppings in the wilds depending on the environment you are in.
-
-When you succeed on an Intelligence (Investigation) check to locate a mining node in an area, You must then make a Strength (Athletics) check against the locations Mineral resource DC. On a success, you roll on the locations mineral resources table.
-
-### Mushrooms
-
-When you succeed on an Intelligence (Investigation) check to locate a mushroom in an area. You must then make a Wisdom (Nature) or Wisdom (Survival) check against the locations Plant resource DC. On a success, you roll on the locations mushroom resources table.
-
-### Plants
-
-You can find plants in all regions, in all sorts of different environments. You may find them in the middle of a grassy field, up a cliff, or perhaps under a tree.
-
-When you succeed on an Intelligence (Investigation) check to locate a plant in an area. You must then make a Wisdom (Nature) or Wisdom (Survival) check against the locations Plant resource DC. On a success, you roll on the locations plant resources table.

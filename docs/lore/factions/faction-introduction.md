@@ -28,7 +28,7 @@ If you play a character who has the Spellcasting or the Pact Magic class feature
 
 Contacts are people you know. They might be a rival, a mentor, a friend, just another member of the faction or possibly a member of a different faction entirely. These contacts should be created with your DM and may provide additional depth for your character. When you create a character you have a number of contacts equal to your Intelligence modifier (minimum of 1).
 
-#### Renown 
+#### Renown
 
 Renown is your status in a faction. The higher your renown is, typically the more known and respected you are within the faction. It's also possible to gain renown in other factions, though this renown won't allow you to gain any ranks within the other factions.
 
@@ -48,7 +48,7 @@ There are many benefits when you gain renown in a faction, most often it is tied
 
 If you go against your faction, or commit a crime against society or nature, you might lose renown. It is up to the DM to determine how much based on the offense. You cannot drop below 0 renown with a faction, but if your renown drops below the required amount for your rank, then you lose the rank and any benefits it gave you. It also may be much harder to obtain that rank again.
 
-#### Changing Factions 
+#### Changing Factions
 
 If for some reason you chose to change factions, be it due to the narrative of the story, or some other reason, you then lose all renown with your previous faction and start with 0 renown with the new faction. The only exception with this is if you already gained renown with the new faction prior to joining them. Then instead you start with the renown you already had with them, though it may still take time for you to rise in the ranks.
 

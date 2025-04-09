@@ -4,25 +4,17 @@ sidebar_position: 1
 
 # Equipment Basics
 
-### Starting Equipment
+## Starting Equipment
 
-When you create your character, you receive equipment based on a combination of your class and background as per usual with a standard D&D game, except that you start with at least one of the new Monster Hunter Weapons and two trinkets. Alternatively, you can start with a number of gold pieces based on your class and spend them on items from the lists in [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) or in the [Player's Handbook](https://drive.google.com/open?id=10elvJ7bM_YyGaGt_xAIZFyr9aGkBPpEu&usp=drive_fs). See the Starting Wealth by Class table (PHB p.143) to determine how much gold you have to spend. You decide how your character came by this starting equipment.
+When you create your character, you receive equipment based on a combination of your class and background as per usual with a standard D&D game, as well as proficiency in one Monster Hunter weapon of your choosing. Your class may provide you with the proficiencies needed for another weapon as well, but you will have one preferred weapon regardless of these class proficiencies. Alternatively, you can start with a number of gold pieces based on your class and spend them on items from the lists in [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT) or in the [Player's Handbook](https://drive.google.com/open?id=10elvJ7bM_YyGaGt_xAIZFyr9aGkBPpEu&usp=drive_fs). See the Starting Wealth by Class table (PHB p.143) to determine how much gold you have to spend. You decide how your character came by this starting equipment.
+
+:::note
+While you can start with any items from the [Guide to Monster Hunting](https://www.gmbinder.com/share/-LCk9FgQaqaXBVmLeCeT), you cannot start with any Monster Hunter weapons or monster materials.
+:::
 
 ### Wealth
 
-Wealth in the Monster Hunter universe is the same as in a standard D&D universe. Though it is a high magic setting, so a couple hundred gold is a pretty standard reward for a hunting party fresh out of training. While high rank rewards can range in the tens if not hundreds of thousands.
-
-### Selling Treasure
-
-Opportunities are abound to find monster parts research items; rare ores, bugs, plants, etc; and old weapons and armor. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that the town, guild, research fleet, or wandering merchants are interested in your loot.
-
-### Magical Items
-
-Magical items do not exist in Monster Hunter the same way that they do in a normal D&D game. You cannot find or obtain a Flame Tongue Long sword, a Staff of Frost or any other magical armor, weapon, or wondrous items. Instead, when you kill or capture a creature, the party receives a number of materials that can be inserted into their weapons and armor to gain their magical effects. Think of it as a "create your own magical items."
-
-#### Limited Use Magical Items
-
-Magical Items that have a limited number of uses, such as potions, food, spell scrolls, Bag of Beans, Dust of Disappearance, etc are all allowed and made available based on your GMs choosing.
+Wealth in this campaign is the same as in a standard D&D universe.
 
 #### Attunement
 
@@ -32,7 +24,7 @@ An unattuned armor or weapon acts as a common version of the weapon no matter it
 
 ## Armor
 
-Armor in the Monster Hunter universe is comprised of all nonmagical armor in the [Player's Handbook](https://drive.google.com/open?id=10elvJ7bM_YyGaGt_xAIZFyr9aGkBPpEu&usp=drive_fs) (p.145) and uses the standard rules for the armor. A PC at level 1 starts with the armor in their starting equipment of their class. This armor can be enhanced at the Smithy using materials you obtain while out on a hunt. They usually have the look and feel of the monsters utilized to enhance the armor.
+Armor in this campaign is comprised of all nonmagical armor in the [Player's Handbook](https://drive.google.com/open?id=10elvJ7bM_YyGaGt_xAIZFyr9aGkBPpEu&usp=drive_fs) (p.145) and uses the standard rules for the armor. A PC at level 1 starts with the armor in their starting equipment of their class. This armor can be enhanced using materials you obtain while out on a hunt. They usually have the look and feel of the monsters utilized to enhance the armor.
 
 ### Rarity
 
@@ -67,7 +59,7 @@ A class that does not use armor such as a barbarian, monk, or some spellcasters 
 
 ### Upgrading your armor
 
-When you want to upgrade your armor consult the table below. Once you have the correct number of resources, a smithy will upgrade your armor for the cost listed. It takes one week to complete the process.
+When you want to upgrade your armor consult the table below. Once you have the correct number of resources, you can upgrade your armor for the cost listed.
 
 | **Rarity** | **Resource***     | **Amount Needed** | **Cost**  |
 | :--------: | :------------:     | :---------------: | :------:  |
@@ -80,14 +72,14 @@ When you want to upgrade your armor consult the table below. Once you have the c
 
 ### Shields
 
-Shields in the Monster Hunter universe can only be used with a weapon that already provides it. Any AC bonus it may provide is increased as the weapon's rarity changes, as shown in the weapons information.
+Shields exist as normal but cannot be used while wielding a Monster Hunter weapon, only weapons with a provided shield can gain this bonus. Any AC bonus it may provide is increased as the weapon's rarity changes, as shown in the weapons information.
 
 ## Weapons
 
-Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor an insect glaive or a heavy bowgun, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring. There are 17 types of weapons in the Monster Hunter universe: Charge Blade, Dual Blades, Great Sword, Gunlance, Hammer, Hunting Horn, Insect Glaive, Lance, Longsword, Magnet Spike, Magus Staff, Switch Axe, Sword & Shield, Tonfas, Bow, Light Bowgun, and Heavy Bowgun. These are the only weapons available to the players and other npcs. Standard D&D weapons do not exist in this world, but their proficiencies are still used to determine which type of weapon each class can use. You can find information about each weapon’s compatible proficiencies in the weapon section of this guide.
+Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor an Insect Glaive or a Heavy Bowgun, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring. There are 17 types of weapons in the Monster Hunter universe: Charge Blade, Dual Blades, Great Sword, Gunlance, Hammer, Hunting Horn, Insect Glaive, Lance, Longsword, Magnet Spike, Magus Staff, Switch Axe, Sword & Shield, Tonfas, Bow, Light Bowgun, and Heavy Bowgun. You can find information about each weapon’s compatible proficiencies in the weapon section of this guide.
 
 :::tip
-I will be lenient on weapon-class pairings in favor of playing both the weapon and class you want to.
+I will allow you to have complete proficiency in one weapon type of your choosing, regardless of your class's granted proficiencies.
 :::
 
 ### Unarmed Strikes
@@ -119,7 +111,7 @@ Below you will find a set of rules that limit the materials that you can place i
 
 ### Upgrading your weapon
 
-When you want to upgrade your weapon consult the table below. Once you have the correct number of resources, a smithy will upgrade your weapon for the cost listed. It takes one week to complete the process.
+When you want to upgrade your weapon consult the table below. Once you have the correct number of resources, you can upgrade your weapon for the cost listed.
 
 | **Rarity** | **Resource\*** | **Amount Needed** | **Cost**  |
 | :--------: | :------------: | :---------------: | :------:  |
