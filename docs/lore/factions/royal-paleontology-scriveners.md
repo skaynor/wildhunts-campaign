@@ -20,7 +20,7 @@ A hunter of the Royal Paleontology Scriveners in Monster Hunter is a highly skil
 
 The highest-ranking member of the Royal Paleontology Scriveners, responsible for overseeing all aspects of the organization's research and operations.
 
-### Head of Field ResearchHead of Field Research
+### Head of Field Research
 
 Oversees the team of scriveners who conduct field research, collect fossils, and study the remains of monsters.
 
@@ -63,20 +63,17 @@ There are several paths that might lead someone to join the Royal Paleontology S
 
 ## Royal Scrivener Spells
 
-*Prerequisite: Spellcasting or Pact Magic class feature*
+**Prerequisite:** Spellcasting or Pact Magic class feature
 
 For you, the spells on the Royal Scrivener Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
-
-**Royal Scrivener Spells**
-
-| Spell   | Level Spells |
-| :---:   | :----------- |
-| Cantrip | *guidance, mending* |
-| 1st     | *purify food and drink, heroism* |
-| 2nd     | *animal messenger, enhance ability* |
-| 3rd     | *speak with dead, water walk* |
-| 4th     | *freedom of movement, fabricate* |
+| Spell   | Level Spells                         |
+| :-----: | :----------------------------------- |
+| Cantrip | *guidance, mending*                  |
+| 1st     | *purify food and drink, heroism*     |
+| 2nd     | *animal messenger, enhance ability*  |
+| 3rd     | *speak with dead, water walk*        |
+| 4th     | *freedom of movement, fabricate*     |
 | 5th     | *commune with nature, modify memory* |
 
 ## Scrivener Backgrounds
@@ -89,18 +86,18 @@ No matter the background you pick, each member of the Royal Paleontology Scriven
 
 > To determine which category of monsters you are most knowledgeable about, roll a d10 or choose from the options in the table below.
 
-| d10 | Monster Category |
-| :-  | :--------------- |
-| 1   | Amphibians & Carapaceon |
-| 2   | Lynians & Herbivores |
-| 3   | Bird Wyverns & Fanged Beasts |
-| 4   | Leviathans & Piscine Wyverns |
-| 5   | Flying Wyverns |
-| 6   | Elder Dragons  |
-| 7   | Snake Wyverns, Temnoceran, & Unknown |
-| 8   | Neopterons & Theropods |
-| 9   | Brute Wyverns & Fanged Wyverns |
-| 10  | Reroll | 
+| d10  | Monster Category                     |
+| :--- | :----------------------------------- |
+| 1    | Amphibians & Carapaceon              |
+| 2    | Lynians & Herbivores                 |
+| 3    | Bird Wyverns & Fanged Beasts         |
+| 4    | Leviathans & Piscine Wyverns         |
+| 5    | Flying Wyverns                       |
+| 6    | Elder Dragons                        |
+| 7    | Snake Wyverns, Temnoceran, & Unknown |
+| 8    | Neopterons & Theropods               |
+| 9    | Brute Wyverns & Fanged Wyverns       |
+| 10   | Reroll                               |
 
 ### Feature: Scrivener Researcher
 
@@ -143,7 +140,7 @@ A member of the Royal Scriveners gains renown typically when they make a new dis
 
 ### Rank 1: Junior Scrivener
 
-*Prerequisite: Renown 3 or higher in the Royal Scriveners*
+**Prerequisite:** Renown 3 or higher in the Royal Scriveners
 
 As a junior scrivener within the Royal Paleontology Scriveners you would be responsible for learning the basics of the organization's field of study. You might spend time studying the anatomy of different monsters, learning about the history and lore of ancient monsters, and familiarizing yourself with the various tools and techniques used by the organization.
 
@@ -151,7 +148,7 @@ While completing a task that requires you to stay away from home for a period of
 
 ### Rank 2: Journeyman Scrivener
 
-*Prerequisite: Rank 1 and renown 10 or higher in the Royal Scriveners*
+**Prerequisite:** Rank 1 and renown 10 or higher in the Royal Scriveners
 
 After having completed your basic training as a junior scrivener you have gained a solid understanding of the organization's field of study. Thus expected to take on more responsibilities within the organization. As a journeyman, you work and study under a senior scrivener, assisting in fieldwork and research projects, including excavating and analyzing monster fossils. In addition to collaborating with other members of the organization on larger research projects and serving as a liaison between the organization and other groups, such as guilds or research institutions.
 
@@ -159,7 +156,7 @@ If your research requires it, your senior researcher or chief researcher may ass
 
 ### Rank 3: Senior Scrivener
 
-*Prerequisite: Rank 2 and renown 25 or higher in the Royal Scriveners*
+**Prerequisite:** Rank 2 and renown 25 or higher in the Royal Scriveners
 
 As a proven researcher, you are a highly respected member of the organization, having demonstrated significant knowledge and expertise in the field. You are considered a leader and mentor to other members of the organization, and would be responsible for research projects and initiatives, including organizing fieldwork and laboratory research. The Head Scrivener of your institution gives you access to some classified documents, and you have a staff of 3d12 journeyman scriveners (which use the stat blocks of commoners from the Monster Manual). You can have this staff work on projects for you, which can include downtime actions.
 
@@ -167,7 +164,7 @@ With your vast array of knowledge of monsters. You can pick two additional monst
 
 ### Rank 4: Head of Field Research
 
-*Prerequisite: Rank 2 and renown 50 or higher in the Royal Scriveners*
+**Prerequisite:** Rank 2 and renown 50 or higher in the Royal Scriveners
 
 As a famous researcher or a successful project leader, you stand ready to take on a supervisory role for an entire institution. New Royal Scrivener locations are rarely built, so you must wait for the previous head of field research to retire before a position exists for you to fill, except in truly exceptional circumstances.
 
@@ -177,7 +174,7 @@ You would be the driving force behind planning and organizing field expeditions 
 
 ### Head Scrivener (Special Role)
 
-*Prerequisite: Renown 50 or higher in the Royal Scriveners*
+**Prerequisite:** Renown 50 or higher in the Royal Scriveners
 
 You are eligible to become the Head of the Royal Paleontology Scriveners. The selection of a new Director (in the event of an existing Head's retiring, dying, or otherwise leaving the position) with the His Immenseness choosing the new Head. If you emerge as the victor, you would hold the highest rank within the organization and be responsible for overseeing all aspects of its operations. You would provide strategic leadership and direction to the organization and work closely with other senior members to develop and implement research initiatives.
 

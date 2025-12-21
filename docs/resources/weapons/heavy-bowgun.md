@@ -71,22 +71,22 @@ sidebar_position: 21
 
 An ammo vendor may be located in a general store, near a blacksmith, or perhaps they have their own shop. A store may have a large supply of ammunition, which will be up to your GM. Below you will find each type of ammo, the amount you can carry, how much they cost.
 
-| Type                | Cost  | Capacity |
-| :------------------ | ----: | -------: |
-| *Cluster Ammo. (1)*   | 5 gp  | 2        |
+| Type                  | Cost  | Capacity   |
+| :-------------------- | ----: | ---------: |
+| *Cluster Ammo. (1)*   | 5 gp  | 2          |
 | *Normal Ammo. (20)*   | 1 gp  | Unlimited* |
-| *Paralysis Ammo. (1)* | 4 gp  | 1        |
-| *Pierce lvl 1. (10*)  | 1 gp  | 10       |
-| *Pierce lvl 2. (10*)  | 2 gp  | 10       |
-| *Pierce lvl 3. (10*)  | 3 gp  | 10       |
-| *Poison Ammo. (1)*    | 4 gp  | 3        |
-| *Recover lvl 1. (1*)  | 5 gp  | 1        |
-| *Recover lvl 2. (1*)  | 7 gp  | 1        |
-| *Slicing Ammo. (1)*   | 5 gp  | 1        |
-| *Spread Ammo. (20)*   | 3 gp  | 10       |
-| *Sticky Ammo. (1)*    | 1 gp  | 2        |
-| *Tranq Ammo. (1)*     | 50 gp | 20       |
-| *Wyvern Ammo. (1)*    | 10 gp | 1        |
+| *Paralysis Ammo. (1)* | 4 gp  | 1          |
+| *Pierce lvl 1. (10*)  | 1 gp  | 10         |
+| *Pierce lvl 2. (10*)  | 2 gp  | 10         |
+| *Pierce lvl 3. (10*)  | 3 gp  | 10         |
+| *Poison Ammo. (1)*    | 4 gp  | 3          |
+| *Recover lvl 1. (1*)  | 5 gp  | 1          |
+| *Recover lvl 2. (1*)  | 7 gp  | 1          |
+| *Slicing Ammo. (1)*   | 5 gp  | 1          |
+| *Spread Ammo. (20)*   | 3 gp  | 10         |
+| *Sticky Ammo. (1)*    | 1 gp  | 2          |
+| *Tranq Ammo. (1)*     | 50 gp | 20         |
+| *Wyvern Ammo. (1)*    | 10 gp | 1          |
 
 \*Up to the GM on how much you can hold.
 

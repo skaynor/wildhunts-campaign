@@ -61,8 +61,8 @@ A class that does not use armor such as a barbarian, monk, or some spellcasters 
 
 When you want to upgrade your armor consult the table below. Once you have the correct number of resources, you can upgrade your armor for the cost listed.
 
-| **Rarity** | **Resource***     | **Amount Needed** | **Cost**  |
-| :--------: | :------------:     | :---------------: | :------:  |
+| **Rarity** | **Resource***      | **Amount Needed** | **Cost**  |
+| :--------: | :----------------: | :---------------: | :-------: |
 | Uncommon   | Armor Sphere       | 5                 | 500 gp    |
 | Rare       | Hard Armor Sphere  | 10                | 1,500 gp  |
 | Very Rare  | Heavy Armor Sphere | 15                | 6,000 gp  |
@@ -86,11 +86,11 @@ I will allow you to have complete proficiency in one weapon type of your choosin
 
 A character can choose to attune to an “unarmed item” instead of a weapon, such as handwraps, gauntlets, or knuckles. This item is treated as a weapon for upgrading, attunement and material placement. This item has no special properties except that it offers 1 additional material slot per rarity level. E.g. an uncommon "unarmed item" would have 3 material slots rather than 2.
 
-### Rarity
+### Weapon Rarity
 
 There are 5 rarities of weapons in Monster Hunter: common, uncommon, rare, very rare, and legendary. Each rarity has a number of slots the hunter can place materials into, enhancing their weapon with magical effects. Additionally, as the weapon’s rarity increases their effects also improve.
 
-#### Rarity Slots
+#### Weapon Rarity Slots
 
 Common (1 Slot)  
 Uncommon (2 Slots)  
@@ -98,7 +98,7 @@ Rare (3 Slots)
 Very Rare (4 Slots)  
 Legendary (5 Slots)
 
-### Rules
+### Weapon Rules
 
 Below you will find a set of rules that limit the materials that you can place in your weapon, to provide a fair and balanced game:
 
@@ -114,7 +114,7 @@ Below you will find a set of rules that limit the materials that you can place i
 When you want to upgrade your weapon consult the table below. Once you have the correct number of resources, you can upgrade your weapon for the cost listed.
 
 | **Rarity** | **Resource\*** | **Amount Needed** | **Cost**  |
-| :--------: | :------------: | :---------------: | :------:  |
+| :--------: | :------------: | :---------------: | :-------: |
 | Uncommon   | Earth Crystal  | 5                 | 500 gp    |
 | Rare       | Machalite Ore  | 10                | 1,000 gp  |
 | Very Rare  | Dragonite Ore  | 15                | 4,000 gp  |
@@ -126,7 +126,7 @@ When you want to upgrade your weapon consult the table below. Once you have the 
 
 Trinkets in Monster Hunter are not just for show. They have 1 material slot that you can place a weapon or armor material into and still gain their benefit as if it was in a weapon or armor set. You can have up to two trinkets on you at a time, but you only gain the effect of one of the trinkets at a time. As an action, you can swap which trinket effect you are using. Players can choose a trinket from the [Player's Handbook](https://drive.google.com/open?id=10elvJ7bM_YyGaGt_xAIZFyr9aGkBPpEu&usp=drive_fs) (p.159) or perhaps a trophy from a creature they have hunted. If they do not find something they like on the list, the player can work with the GM to choose an appropriate trinket for their setting.
 
-### Rules
+### Trinket Rules
 
 If the material grants an effect such as extra damage on weapon attacks, or requires the armor to be worn, then it only works on armor or weapons you are attuned to.
 

@@ -10,11 +10,11 @@ The Hunter's Guild headquarters are located in the city of Dundorma, and all maj
 
 Though the Hunter's Guild is connected together, each district of it prefers to work alone. This means that not every district is aware of new discoveries made by the other, such as locations and monsters.
 
-### The Four Swords of the Guild
+## The Four Swords of the Guild
 
 The Hunter's Guild crest has four symbols on it. Each symbol on the crest has a meaning that the Hunter's Guild follows. The north represents Respect for nature, the west represents Life as a community, the south represents Crafting from nature, and the east represents Prosperity from nature.
 
-### Fate of Most Captured Monsters
+## Fate of Most Captured Monsters
 
 Usually when a monster is captured, it is torn apart in its sleep with ease by the corporation that requested it. This is due to said corporation wanting to research the body parts and organs of said monster, allowing them to better understand a certain species. The corporations that request for monsters to be captured include Elder Dragon Observation Team, Wycademy, and the Royal Paleontology Scriveners. Only on some rare occasions, is the monster tamed and becomes a person's pet.
 
@@ -78,20 +78,18 @@ Each hunter is also given a Guild Card that they can customize at their own free
 
 ## Hunter's Guild Spells
 
-*Prerequisite: Spellcasting or Pact Magic class feature*
+**Prerequisite:** Spellcasting or Pact Magic class feature
 
 For you, the spells on the Hunter's Guild Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
-**Hunter's Guild Spells**
-
-| Spell   | Level Spells |
-| :---:   | :----------- |
-| Cantrip | *produce flame, resistance* |
+| Spell   | Level Spells                             |
+| :-----: | :--------------------------------------- |
+| Cantrip | *produce flame, resistance*              |
 | 1st     | *detect poison and disease, longstrider* |
-| 2nd     | *enhance ability, gust of wind* |
-| 3rd     | *fear, plant growth* |
-| 4th     | *elemental bane, guardian of nature* |
-| 5th     | *awaken, skill empowerment* |
+| 2nd     | *enhance ability, gust of wind*          |
+| 3rd     | *fear, plant growth*                     |
+| 4th     | *elemental bane, guardian of nature*     |
+| 5th     | *awaken, skill empowerment*              |
 
 ## Hunter's Guild Backgrounds
 
@@ -150,24 +148,24 @@ A member of the Hunter's Guild gains renown typically when they complete dangero
 
 ### HR 1
 
-*Prerequisite: Renown 1 or higher in the Hunter's Guild*
+**Prerequisite:** Renown 1 or higher in the Hunter's Guild
 
 Having completed your first dangerous hunt, the guild recognizes you as a true hunter. Your rank allows you to take on higher difficulty hunts and the guild provides you with a home and a modest living wage while you are in a town or village where a guild hall can be found. The guild also provides you with supplies you need to complete those missions (within reason) and access to their guild store.
 
 ### HR 2
 
-*Prerequisite: Rank 1 and renown 10 or higher in the Hunter's Guild, 4th level or higher*
+**Prerequisite:** Rank 1 and renown 10 or higher in the Hunter's Guild, 4th level or higher
 
 At this rank, you have begun to make a name for yourself and as such the guild provides you with access to purchase CR 2 or lower materials that the guild store offers (*DMs choice of what materials and when the stock changes*). Additionally you are given a lynian caretaker for your home and even though they may not go hunt in the field with you, it is not unheard of for a caretaker to give its hunter gifts when they return from a hunt.
 
 ### HR 3
 
-*Prerequisite: Rank 2 and renown 25 or higher in the Hunter's Guild, 8th level or higher*
+**Prerequisite:** Rank 2 and renown 25 or higher in the Hunter's Guild, 8th level or higher
 
 At HR 3, you are responsible for hunting some of the more dangerous monsters in the world when they become a threat to a settlement or the ecosystem it is located in. As such, you are given access to the guilds wingdrakes (*see page 191 of the MHMM for its stat block*) or other mounts for faster travel between locations. Additionally, the guild grants you permission to purchase CR 4 or lower materials that the guild store offers (*DMs choice of what materials and when the stock changes*).
 
 ### HR 4
 
-*Prerequisite: Rank 3 and renown 50 or higher in the Hunter's Guild, 12th level or higher*
+**Prerequisite:** Rank 3 and renown 50 or higher in the Hunter's Guild, 12th level or higher
 
 As a HR 4, you are an elite hunter and given access to G ranked hunts (*hunts kept hidden from the populace for their own safety and to prevent panic should the knowledge get out*) and other secret information hidden away by the guild. As an elite hunter your words and actions reflect immensely on the guild, but also carry an immeasurable weight with them. As such, nobles and other members of high society treat you with great respect, unless you prove yourself untrustworthy.

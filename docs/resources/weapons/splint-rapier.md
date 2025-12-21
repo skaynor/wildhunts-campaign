@@ -49,7 +49,7 @@ You gain use of the following properties while the rapier is in splint mode.
 
 This weapon retains all previous rarities weapon properties in addition to the following:
 
-### Single Mode
+### Single Mode (Rare)
 
 You gain use of the following properties while the rapier is in single mode.
 
@@ -57,7 +57,7 @@ You gain use of the following properties while the rapier is in single mode.
 
 **Riposte.** When a melee attack would hit you, you can use your reaction to make an attack roll with your rapier. If the result of this roll equals or exceeds the attacker's attack roll, its attack misses.
 
-### Splint Mode
+### Splint Mode (Rare)
 
 You gain the following new stance and stance upgrade while the rapier is in splint mode.
 
@@ -89,7 +89,7 @@ This weapon retains all previous rarities weapon properties in addition to the f
 
 **Riposte Upgrade.** If your attack roll also exceeds the attacker's AC, roll the weapon's damage and deal half the damage rolled to the attacker.
 
-### Splint Mode
+### Splint Mode (Legendary)
 
 You gain use of this additional properties while the rapier is in splint mode.
 

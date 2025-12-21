@@ -4,7 +4,7 @@ sidebar_position: 18
 
 # Wire Knuckles
 
-*MSimple Melee Weapon*  
+*Simple Melee Weapon*  
 **Compatible Proficiency:** Any
 
 *Infused with the essence of wirebugs and the strength of ironsilk, these knuckles offer unparalleled agility and graceful maneuvers, seamlessly blending combat finesse with versatile utility and support capabilities.*
@@ -26,10 +26,6 @@ sidebar_position: 18
 *You gain a +1 bonus on attacks and damage rolls.*
 
 **Silkbind.** Immediately after you hit a creature during your attack action, you can use your bonus action to slam your fist against the ground, planting a wire into the earth that wraps around the creature, binding it within a 15-foot radius from the wire's point of placement. The creature can't move beyond this radius until the wire is snapped.
-
-Immediately after you hit a creature during your attack action, you can use your bonus action to slam your fist against the ground, planting a wire into the earth that wraps around the creature, binding it within a 15-foot radius from the wire's point of placement. The creature can't move beyond this radius until the wire is snapped.
-
-Immediately after you hit a creature during your attack action, you can use your bonus action to slam your fist against the ground, planting a wire into the earth that wraps around the creature, binding it within a 15-foot radius from the wire's point of placement. The creature can't move beyond this radius until the wire is snapped.
 
 **Wiredash Upgrade.** You can now move up to 15 feet in any direction.
 

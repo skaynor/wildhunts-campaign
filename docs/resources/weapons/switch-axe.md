@@ -43,7 +43,7 @@ This weapon retains all previous rarities weapon properties in addition to the f
 
 **Element Phial (Costs 3).** You deal an extra 1d4 acid, cold, fire, or lightning damage (your choice) on this attack.
 
-**Poison Phial (Costs 2).** The target must also succeed on a a Constitution saving throw against a DC of 8 + your proficiency bonus + your Strength modifier or become poisoned until the end of your next turn.
+**Poison Phial (Costs 2).** The target must also succeed on a Constitution saving throw against a DC of 8 + your proficiency bonus + your Strength modifier or become poisoned until the end of your next turn.
 
 **Power Phial Upgrade.** You can expend an extra 3 charges when using a power phial to roll 1d4 and add it to your attack roll.
 

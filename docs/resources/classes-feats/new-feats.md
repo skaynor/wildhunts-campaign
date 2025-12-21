@@ -19,7 +19,7 @@ Your natural arcane ability allows you to improvise and adapt to your surroundin
 
 ## Armored Gunner
 
-*Prerequisite: Strength 13 or higher*
+**Prerequisite:** Strength 13 or higher
 
 - As a bonus action, you can attach or detach a shield to your heavy bowgun.
 - While the shield is attached, you gain a +2 bonus to your AC, your movement speed is halved, and being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
@@ -27,7 +27,7 @@ Your natural arcane ability allows you to improvise and adapt to your surroundin
 
 ## Bastion
 
-*Prerequisite: Strength 13 or higher*
+**Prerequisite:** Strength 13 or higher
 
 If you are subjected to an effect or action originating from a creature or object that does not spread around corners (for example, a red dragon's breath weapon, the lightning bolt spell, or the thunderwave spell), you can use your reaction to employ your shield or a weapon with the guard property, positioning it between yourself and the effect or action. When you do, you gain the following benefits:
 
@@ -106,7 +106,7 @@ You can use an action to have your kinsect act as if it was summoned by the find
 
 ## Master Mounter
 
-*Prerequisite: 8th level or higher*
+**Prerequisite:** 8th level or higher
 
 - You have advantage on Strength (Athletics) or Dexterity (Acrobatics) checks to climb onto a bigger creature or remain on a creature you are already on.
 - While you remain on a bigger creature, you can use your action to make an unarmed strike against the creature. On a hit, the creature must use its reaction to move up to half its movement speed in a direction of your choice. If it hits a solid object - that is as big or larger than it - before the end of its movement, the creature is knocked prone. If the creature would enter into any environmental hazard dangerous to the creature (such as falling off a cliff when it can't fly, or into lava when it isn't immune to fire), it instead falls prone in the space adjacent to the hazard.
@@ -122,7 +122,7 @@ You master fighting with the switch axe, gaining the following benefits:
 
 ## Additional Wildshapes
 
-*Prerequisite: Druid*
+**Prerequisite:** Druid
 
 Choose a creature type: Bird Wyverns, Brute Wyverns, Fanged Wyverns, Flying Wyverns, Leviathans, Neopterons & Temnoceran, Piscine Wyverns.
 

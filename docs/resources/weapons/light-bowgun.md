@@ -81,24 +81,24 @@ sidebar_position: 22
 
 An ammo vendor may be located in a general store, near a blacksmith, or perhaps they have their own shop. A store may have a large supply of ammunition, which will be up to your GM. Below you will find each type of ammo, the amount you can carry, how much they cost.
 
-| Type                   | Cost  | Capacity |
-| :------------------    | ----: | -------: |
-| *Armor Ammo. (1)*      | 8 gp  | 1        |
-| *Demon Ammo. (1)*      | 8 gp  | 1        |
-| *Dragon Ammo. (10)*    | 3 gp  | 10       |
-| *Flaming Ammo. (10)*   | 3 gp  | 10       |
-| *Normal Ammo. (20)*    | 1 gp  | Unlimited* |
-| *Paralysis Ammo. (1)*  | 4 gp  | 1        |
-| *Pierce Ammo. (10)*    | 2 gp  | 10       |
-| *Poison Ammo. (1)*     | 4 gp  | 3        |
-| *Recover lvl 1. (1*)   | 5 gp  | 1        |
-| *Recover lvl 2. (1*)   | 7 gp  | 1        |
-| *Sleep Ammo. (1)*      | 5 gp  | 1        |
-| *Spread Ammo. (10)*    | 3 gp  | 10       |
-| *Sticky Ammo. (1)*     | 1 gp  | 2        |
-| *Thunder Ammo. (10)*   | 3 gp  | 10       |
-| *Tranq Ammo. (1)*      | 50 gp | 20       |
-| *Water Ammo. (10)*     | 3 gp  | 10       |
+| Type                  | Cost  | Capacity   |
+| :-------------------- | ----: | ---------: |
+| *Armor Ammo. (1)*     | 8 gp  | 1          |
+| *Demon Ammo. (1)*     | 8 gp  | 1          |
+| *Dragon Ammo. (10)*   | 3 gp  | 10         |
+| *Flaming Ammo. (10)*  | 3 gp  | 10         |
+| *Normal Ammo. (20)*   | 1 gp  | Unlimited* |
+| *Paralysis Ammo. (1)* | 4 gp  | 1          |
+| *Pierce Ammo. (10)*   | 2 gp  | 10         |
+| *Poison Ammo. (1)*    | 4 gp  | 3          |
+| *Recover lvl 1. (1*)  | 5 gp  | 1          |
+| *Recover lvl 2. (1*)  | 7 gp  | 1          |
+| *Sleep Ammo. (1)*     | 5 gp  | 1          |
+| *Spread Ammo. (10)*   | 3 gp  | 10         |
+| *Sticky Ammo. (1)*    | 1 gp  | 2          |
+| *Thunder Ammo. (10)*  | 3 gp  | 10         |
+| *Tranq Ammo. (1)*     | 50 gp | 20         |
+| *Water Ammo. (10)*    | 3 gp  | 10         |
 
 \*Up to the GM on how much you can hold.
 

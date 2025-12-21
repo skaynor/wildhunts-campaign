@@ -14,7 +14,6 @@ Being a Guild organization, it is also in charge of managing and assigning missi
 
 More secretly, the Wycademy conducts an exhaustive study of the strange variants of the monsters that have appeared all over the world, called Deviants. Since very little information is known about them and they are very dangerous, they can only be hunted by experienced hunters.
 
-
 ## Hunters of the Wycademy
 
 In order to facilitate the research of scientists in the field, the Wycademy sends specialized hunters to scout to various regions and discover info about known species of monsters. If necessary, the hunters repel or kill the monsters present in the area. They are also sent on urgent missions when it is a question of studying a unidentified species without having for as much needing to kill it; these hunters therefore have, in addition to their hunting talent, a great scientific knowledge.
@@ -53,19 +52,19 @@ Consider the Wycademy for your character if one or more of the following sentenc
 
 Many paths lead people to the Wycademy, all of them guided by the notion that tomorrow can be made better than today. All of the Wycademy's efforts strive to achieve a safer future that they believe is within reach. When you join the Wycademy, choose one of the following roles for your character.
 
-#### Ancient Civilization Researcher
+### Ancient Civilization Researcher
 
 The Ancient Civilization was a once thriving civilization that mysteriously went extinct some centuries ago. You seek to earn the secrets that were lost when this advanced civilization fell. These researchers may spend their time deciphering scrolls in the depths of the Wycademy or travel the world seeking these ruins. Thanks to these researchers weapons with multiple modes and different types of ammunition for the bowguns has been discovered.
 
-#### Endemic Researcher
+### Endemic Researcher
 
 You choose to study endemic life. This refers broadly to all small lifeforms that inhabit an area. Some endemic life can be used to provide long lasting benefits to hunters on a hunt, or temporary effects that may help or hinder a creature that interacts with them. Your goal is to study these creatures, classifying new endemic life once you determine their effects as one of the following: Hunting Helpers, Ensnaring Life, Craft Creatures, Rare Creatures, Other.
 
-#### Resource Researcher
+### Resource Researcher
 
 You choose to research into the natural materials the world provides, attempting to locate unknown resources or ways to make use of known materials (such as earth crystals, thunderbugs, popfish) in different ways. Those who focus on minerals are known as geologists; those who study plants are known as botanists; insects are known as entomologists; fish, ichthyologist; mushrooms, mycologist. If you don't specialize in one type of resource, you are known as a naturalist.
 
-#### Monster Researcher
+### Monster Researcher
 
 Monster researchers are split into two different types. The zoologist studies known creatures by observing various species in their habitats, zoologists understand how animals behave in the wild. Their goal is to identify and monitor how different species interact within their ecosystem. This is particularly important as many species continues to transform various habitats.
 
@@ -73,20 +72,18 @@ A researcher who searches for and studies unknown, legendary, or extinct animals
 
 ## Wycademy Spells
 
-*Prerequisite: Spellcasting or Pact Magic class feature*
+**Prerequisite:** Spellcasting or Pact Magic class feature
 
 For you, the spells on the Wycademy Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
-**Wycademy Spells**
-
-| Spell   | Level Spells |
-| :---:   | :----------- |
-| Cantrip | *druidcraft, light* |
+| Spell   | Level Spells                                |
+| :-----: | :------------------------------------------ |
+| Cantrip | *druidcraft, light*                         |
 | 1st     | *comprehend languages, expeditious retreat* |
-| 2nd     | *alter self, locate animals or plants* |
-| 3rd     | *water breathing, tongues* |
-| 4th     | *control water, leomund's secret chest* |
-| 5th     | *commune with nature, legend lore* |
+| 2nd     | *alter self, locate animals or plants*      |
+| 3rd     | *water breathing, tongues*                  |
+| 4th     | *control water, leomund's secret chest*     |
+| 5th     | *commune with nature, legend lore*          |
 
 ## Wycademy Backgrounds
 
@@ -98,12 +95,12 @@ No matter the background you pick, each member of the Wycademy Guild has the sam
 
 > When you attempt to gather a resource, you can use the specified cantrip from the table below to automatically succeed on the gather check, but you do not gain the effects from materials that provide additional resources from gathering when you gather resources in this way.
 
-| Cantrip        | Resources |
-| :-----------   | :----------- |
+| Cantrip        | Resources         |
+| :------------- | :---------------- |
 | *Druidcraft*   | mushrooms, plants |
-| *Gust of Wind* | insects |
-| *Mold Earth*   | bones, minerals |
-| *Shape Water*  | fish |
+| *Gust of Wind* | insects           |
+| *Mold Earth*   | bones, minerals   |
+| *Shape Water*  | fish              |
 
 :::tip
 Please review the [Faction - Wycademy](https://drive.google.com/file/d/1fMCyFskrErs4OwkJak5deKN_1xMoh3L0/view?usp=drive_link) if you want to use the Personality Trait, Ideals, Bonds, and Flaws tables. I do not feel like adding all of them to this site by hand.
@@ -135,18 +132,18 @@ Having graduated from the wycademy, you chose to continue your studies dedicatin
 
 > Your research search group is a loose network of wycademy graduates who each typically work in a different village that you share knowledge with. Their studies can help you with your hunts and investigations. You can select what you research from the Group Research table or roll randomly.
 
-**Group Research**
+##### Group Research
 
-| d8 | Research Type |
-| :- | :------------ |
-| 1  | Endemic Life  |
-| 2  | Lynians       |
-| 3  | Botanical     |
-| 4  | Mineralogical (Ore) |
-| 5  | Piscine (Fish) |
-| 6  | Archeologist  |
-| 7  | Ancient Civilization |
-| 8  | Exotic Monsters from Far Off Lands | 
+| d8   | Research Type                      |
+| :--- | :--------------------------------- |
+| 1    | Endemic Life                       |
+| 2    | Lynians                            |
+| 3    | Botanical                          |
+| 4    | Mineralogical (Ore)                |
+| 5    | Piscine (Fish)                     |
+| 6    | Archeologist                       |
+| 7    | Ancient Civilization               |
+| 8    | Exotic Monsters from Far Off Lands |
 
 #### Feature: Investigation
 
@@ -166,7 +163,7 @@ A member of the Wycademy gains renown typically when they make a new discovery, 
 
 ### Rank 1: Junior Researcher
 
-*Prerequisite: Renown 3 or higher in the Wycademy*
+**Prerequisite:** Renown 3 or higher in the Wycademy
 
 As a junior researcher, you are responsible for evaluating and interpreting scientific results from laboratory investigations and experiments. Junior researcher assist the senior researchers in gathering information to support research studies and claims. You perform both laboratory and field trials to collect samples for further examinations. Such errands can bring you into contact with members of other guilds and lead to adventures.
 
@@ -174,7 +171,7 @@ While completing a task that requires you to stay away from home for a period of
 
 ### Rank 2: Researcher
 
-*Prerequisite: Rank 1 and renown 10 or higher in the Wycademy*
+**Prerequisite:** Rank 1 and renown 10 or higher in the Wycademy
 
 After doing your time as a junior researcher, you are eligible to lead your own experiments. You must be associated with a project, and must work on experiments related to its primary focus under the general guidance of the senior researcher. Senior researchers are more hands-on, ensuring that your research contributes to reaching the immediate objective. Your chief researcher may check in from time to time, but they give you wide latitude to pursue your own experiments under the general aegis of the Wycademy's interests.
 
@@ -182,7 +179,7 @@ If your research requires it, your senior researcher or chief researcher can pro
 
 ### Rank 3: Senior Researcher
 
-*Prerequisite: Rank 2 and renown 25 or higher in the Wycademy*
+**Prerequisite:** Rank 2 and renown 25 or higher in the Wycademy
 
 A proven researcher, you are eligible to oversee your own project, directing the efforts of other researchers toward the solution of some problem facing the Wycademy or Hunter's Guild. The director of your institution gives you laboratory space, and you have a staff of 3d12 researchers (which use the stat blocks of commoners from the Monster Manual). You can have this staff work on projects for you, which can include downtime actions.
 
@@ -190,13 +187,13 @@ Hosting the work of a successful and important project reflects well on your dir
 
 ### Rank 4: Chief Researcher
 
-*Prerequisite: Rank 2 and renown 50 or higher in the Wycademy*
+**Prerequisite:** Rank 2 and renown 50 or higher in the Wycademy
 
 As a famous researcher or a successful project leader, you stand ready to take on a supervisory role for an entire institution. New Wycademy locations are rarely built, so you must wait for your chief researcher to retire before a position exists for you to fill, except in truly exceptional circumstances. Similar to a project leader, you are responsible for directing the efforts of researchers exploring a wide variety of projects related to the focus of the Wycademy. Unless an experiment turns out to be especially interesting, these efforts can carry on without your supervision. If you need to, you can enlist the aid of 5d12 researchers (which use the stat blocks of commoners from the Monster Manual), and you can also request the support of Hunter's Guild members from the guild manager of any Hunter's Guild in a town where the members of your institution live and work.
 
 ### Wycademy Director (Special Role)
 
-*Prerequisite: Renown 50 or higher in the Wycademy*
+**Prerequisite:** Renown 50 or higher in the Wycademy
 
 You are eligible to become the Director of a Wycademy institution. The selection of a new Director (in the event of an existing Speaker's retiring, dying, or otherwise leaving the position) takes place through a combination of popular election and the input of the other Wycademy Directors, with the His Immenseness having the final word. If you emerge as the victor after this rigorous process, you assume the leadership of your Wycademy and are empowered to bring its concerns before His Immenseness.
 

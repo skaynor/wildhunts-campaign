@@ -35,7 +35,7 @@ This weapon retains all previous rarities weapon properties in addition to the f
 
 **Shells Upgrade.** Your gunlance can now hold up to four shells.
 
-**Wyvernfire.** As a bonus action, you can load a special shell into the gunlance and use your action to release flames in a 30-foot long line that is 5-feet wide. Each creature in that line must make a Dexterity saving throw against a DC of 8 + your proficiency bonus + your Strength modifier. Taking 3d6 fire damage on a failed save, or half as much damage on a successful one. One you use this property, you can't use it again until you finish a long rest.
+**Wyvernfire.** As a bonus action, you can load a special shell into the gunlance and use your action to release flames in a 30-foot long line that is 5-feet wide. Each creature in that line must make a Dexterity saving throw against a DC of 8 + your proficiency bonus + your Strength modifier. Taking 3d6 fire damage on a failed save, or half as much damage on a successful one. Once you use this property, you can't use it again until you finish a long rest.
 
 ## Very Rare
 

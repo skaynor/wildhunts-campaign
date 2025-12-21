@@ -31,7 +31,7 @@ sidebar_position: 19
 
 *You gain a +1 bonus on attacks and damage rolls.*
 
-**Dragonpiercer.** When you take the Attack action on your turn, you can replace one of your attacks to fire a dragonpiercer, striking all creatures in a 30-foot line that is 5 feet wide. Each creature in that line must make a Dexterity saving throw equal to your *Coating save DC*, taking 3d6 piercing damage on a failed save, or half as much on a successful one. If a creature is Huge or larger, it takes double damage. One you use this property, you can't use it again until you finish a long rest.
+**Dragonpiercer.** When you take the Attack action on your turn, you can replace one of your attacks to fire a dragonpiercer, striking all creatures in a 30-foot line that is 5 feet wide. Each creature in that line must make a Dexterity saving throw equal to your *Coating save DC*, taking 3d6 piercing damage on a failed save, or half as much on a successful one. If a creature is Huge or larger, it takes double damage. Once you use this property, you can't use it again until you finish a long rest.
 
 **Additional Coatings Available.**
 

@@ -22,7 +22,7 @@ You can have additional Artisans, but each party member can only benefit from on
 
 #### Step 1
 
-When getting ready to cook a meal as an artisan, the first step is to decide on what you want to cook and ensure you have the ingredients required for the meal. 
+When getting ready to cook a meal as an artisan, the first step is to decide on what you want to cook and ensure you have the ingredients required for the meal.
 
 The ingredients themselves should be easy to obtain. They might find them near the campsite as part of preparing the meal or be able to purchase them in town for under 1 sp for a portion large enough to prepare a meal for a party of four.
 

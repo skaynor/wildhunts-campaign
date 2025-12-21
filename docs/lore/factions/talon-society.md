@@ -52,34 +52,32 @@ Consider the Talon Society for your character if one or more of the following se
 
 The Talon Society is a group of poachers and hunters who seek to hunt monsters for their valuable materials and also to gather knowledge about rare creatures. When you join the Talon Society, choose one of the following roles for your character.
 
-#### Artifact Hunter
+### Artifact Hunter
 
 As an Artifact Hunter, you seek out ancient technologies and artifacts to uncover their secrets. You may spend your time studying ancient ruins or infiltrating the Hunters Guild to gather information on secret locations.
 
-#### Poacher
+### Poacher (Role)
 
 As a Poacher, you specialize in hunting and collecting the valuable parts of monsters. You see the Talon Society as the ultimate destination for your talents, a place where you can put your abilities to use for maximum profit. You join the society not only for the resources and training it provides, but also for the prestige of being associated with such a notorious and elite group of poachers.
 
-#### Information Broker
+### Information Broker
 
 As an Information Broker, your job is to gather and provide valuable information to the Talon Society. This information could include the location of valuable resources, potential targets for poaching, or information on the society's rivals. Your connections and ability to gather this information will be highly valued within the society and could earn you special privileges and rewards.
 
 ## Talon Society Spells
 
-*Prerequisite: Spellcasting or Pact Magic class feature*
+**Prerequisite:** Spellcasting or Pact Magic class feature
 
 For you, the spells on the Talon Society Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
-**Talon Society Spells**
-
-| Spell   | Level Spells |
-| :---:   | :----------- |
-| Cantrip | *mage hand, minor illusion* |
-| 1st     | *detect magic, longstrider* |
+| Spell   | Level Spells                        |
+| :-----: | :---------------------------------- |
+| Cantrip | *mage hand, minor illusion*         |
+| 1st     | *detect magic, longstrider*         |
 | 2nd     | *pass without trace, locate object* |
-| 3rd     | *nondetection, speak with dead* |
-| 4th     | *divination, arcane eye * |
-| 5th     | *mislead, modify memory* |
+| 3rd     | *nondetection, speak with dead*     |
+| 4th     | *divination, arcane eye*            |
+| 5th     | *mislead, modify memory*            |
 
 ## Talon Society Backgrounds
 
@@ -141,7 +139,7 @@ However, it's important to note that poaching without the approval of the societ
 
 ### Rank 1: Talon Recruit
 
-*Prerequisite: Renown 10 or higher in the Talon Society*
+**Prerequisite:** Renown 10 or higher in the Talon Society
 
 As someone starting out in the Talon Society, you would begin as a Talon recruit. Your main role would involve learning the fundamentals of poaching and hunting, as well as becoming knowledgeable about the different types of creatures that the society targets. Your duties may include scouting and gathering information on potential hunting grounds, identifying valuable targets, and supporting higher- ranked members of the society on their hunts.
 
@@ -149,9 +147,9 @@ As a Talon recruit, you may also be expected to assist with other tasks such as 
 
 At this rank, you are provided with an income to satisfy a modest lifestyle... so long as your last mission was a success.
 
-### Rank 2: Talon MemberR
+### Rank 2: Talon Member
 
-*Prerequisite: Rank 1 and renown 25 or higher in the Talon Society*
+**Prerequisite:** Rank 1 and renown 25 or higher in the Talon Society
 
 As someone who is part of the Talon Society, your primary responsibility as a talon member would be to carry out tasks related to poaching and trafficking exotic creatures. This could include identifying valuable targets, tracking and capturing them, and ensuring their safe transportation to buyers. You might also be tasked with training and overseeing new recruits, ensuring that they follow the Society's values and code.
 
@@ -161,7 +159,7 @@ When you reach the rank of member, you are provided with a monster hunter weapon
 
 ### Rank 3: Talon Knight (Special Role)
 
-*Prerequisite: Rank 2 and renown 40 or higher in the Talon Society*
+**Prerequisite:** Rank 2 and renown 40 or higher in the Talon Society
 
 To become a Talon Knight, you must first become a highly respected and skilled member of the Talon Society. This requires years of dedicated service, exceptional hunting and poaching skills, and a deep understanding of the Society's values and code.
 
@@ -174,4 +172,3 @@ Overall, becoming a Talon Knight is a long and difficult process that requires u
 In this role, you are advised and in regular communication with Raxis, who places you in charge of a major territory and all talon members residing within. You might be tasked with obtaining rare or valuable specimens, sabotaging or disrupting the activities of rival factions, to gather information on their plans and operations, eliminating individuals or groups that pose a threat to the Talon Society, or special assignments that are particularly challenging or sensitive missions that require your unique talents and expertise.
 
 You continue to draw a salary sufficient to maintain a comfortable lifestyle.
-

@@ -15,7 +15,7 @@ sidebar_position: 20
 
 **Ammo save DC** = 8 + your proficiency bonus + your Dexterity modifier or your Strength Modifier
 
-**Chamber.** Each repeater has a chamber that can hold up to 6 rounds of ammo. When you reload these weapons, you can load up to 6 of one ammo type into each repeater. The ammo you put in each repeater can be different from the other. Once all six rounds have been fired from a repeater, you must reload as a bonus action before before being able to attack with it again.
+**Chamber.** Each repeater has a chamber that can hold up to 6 rounds of ammo. When you reload these weapons, you can load up to 6 of one ammo type into each repeater. The ammo you put in each repeater can be different from the other. Once all six rounds have been fired from a repeater, you must reload as a bonus action before being able to attack with it again.
 
 **Sidearm.** When you use the Attack action and attack with your mainhand repeater, you can use a bonus action to attack with your offhand repeater you are holding.
 
@@ -34,7 +34,7 @@ sidebar_position: 20
 
 *You gain a +1 bonus on attacks and damage rolls.*
 
-**Empowered.** When you reload your repeaters while you are within 10 feet of a hostile creature, your repeaters are empowered for 1 minute or until you reload again when their isn't a hostile creature in range. While empowered, you gain an extra +1 bonus on attacks and damage rolls when attacking a creature within your weapon's normal attack range.
+**Empowered.** When you reload your repeaters while you are within 10 feet of a hostile creature, your repeaters are empowered for 1 minute or until you reload again when there isn't a hostile creature in range. While empowered, you gain an extra +1 bonus on attacks and damage rolls when attacking a creature within your weapon's normal attack range.
 
 **Additional Ammo Available.**
 
@@ -96,8 +96,8 @@ sidebar_position: 20
 
 An ammo vendor may be located in a general store, near a blacksmith, or perhaps they have their own shop. A store may have a large supply of ammunition, which will be up to your GM. Below you will find each type of ammo, the amount you can carry, how much they cost.
 
-| Type                | Cost  | Capacity |
-| :------------------ | ----: | -------: |
+| Type                  | Cost  | Capacity |
+| :-------------------- | ----: | -------: |
 | *Blaze Ammo. (12)*    | 1 gp  | 48       |
 | *Cryo Ammo. (12)*     | 2 gp  | 48       |
 | *Dawnstar Ammo. (1)*  | 2 gp  | 18       |
