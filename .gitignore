@@ -22,4 +22,4 @@ yarn-error.log*
 # Crap that my AI has generated
 .markdownlint-cli2.jsonc
 /scripts
-.github
+/.github
