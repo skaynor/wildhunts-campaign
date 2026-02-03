@@ -88,7 +88,7 @@ A character can choose to attune to an “unarmed item” instead of a weapon, s
 
 ### Weapon Mastery
 
-If your class grants Weapon Mastery, you may select from the Weapon Mastery options listed alongside each weapon's compatible proficiencies. You may only have one weapon mastery active per weapon, unless otherwise specified, and may change the active weapon mastery during a Long Rest.
+If your class grants Weapon Mastery, you may select from the Weapon Mastery options listed alongside each weapon's compatible proficiencies. You may only have one Weapon Mastery active per weapon, unless otherwise specified, and may change the active Weapon Mastery during a Long Rest.
 
 ### Weapon Rarity
 
