@@ -5,7 +5,7 @@ sidebar_position: 19
 # Wyvern Kunai
 
 *Simple Melee Weapon*  
-**Compatible Proficiency:** Greatsword, Any weapon with the Thrown property
+**Compatible Proficiency:** Dagger, Any weapon with the Thrown property
 
 *Wyvern Kunai are balanced throwing blades designed to be gripped between the knuckles like clawed talons.*
 
@@ -17,7 +17,7 @@ sidebar_position: 19
 
 ## Nonmagical
 
-**Wyvern Boomerang** *1d4 piercing; finesse, light, thrown (20/60). For each kunai.*
+*1d4 piercing; finesse, light, thrown (20/60). For each kunai.*
 
 ## Uncommon
 

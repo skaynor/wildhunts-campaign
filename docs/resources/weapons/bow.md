@@ -17,7 +17,7 @@ sidebar_position: 19
 
 ## Nonmagical
 
-*24 gp, 1d8 piercing, 2 lb. ammunition (range 150/600), two- handed.*
+*24 gp, 1d8 piercing, 2 lb. ammunition (range 150/600), two-handed.*
 
 ## Uncommon
 

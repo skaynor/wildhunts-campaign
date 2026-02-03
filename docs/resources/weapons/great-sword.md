@@ -33,25 +33,15 @@ This weapon retains all previous rarities weapon properties in addition to the f
 
 *You gain a +2 bonus on attacks and damage rolls.*
 
-**Charged Slash Upgrade.** Your charge slash now deals an
-extra 1d8 + your Strength modifier as weapon damage + the
-weapon's extra damage material (if it has one) for each
-charge expended in this way, plus an extra 3 damage if you
-expended 2 charges, or 6 damage if you expended 3 charges.
+**Charged Slash Upgrade.** Your charge slash now deals an extra 1d8 + your Strength modifier as weapon damage + the weapon's extra damage material (if it has one) for each charge expended in this way, plus an extra 3 damage if you expended 2 charges, or 6 damage if you expended 3 charges.
 
-**Guard Upgrade.** You now gain a +3 bonus to your AC
-when you use this reaction and you no longer have
-disadvantage4 on attacks until the end of your next turn.
+**Guard Upgrade.** You now gain a +3 bonus to your AC when you use this reaction and you no longer have disadvantage on attacks until the end of your next turn.
 
 ## Legendary
 
 *You gain a +3 bonus on attacks and damage rolls.*
 
-**Charged Slash Upgrade.** Your charge slash now deals an
-extra 1d10 + your Strength modifier as weapon damage + the
-weapon's extra damage material (if it has one) for each
-charge expended in this way, plus an extra 3 damage if you
-expended 2 charges, or 6 damage if you expended 3 charges.
+**Charged Slash Upgrade.** Your charge slash now deals an extra 1d10 + your Strength modifier as weapon damage + the weapon's extra damage material (if it has one) for each charge expended in this way, plus an extra 3 damage if you expended 2 charges, or 6 damage if you expended 3 charges.
 
 **Guard Upgrade.** You now gain a +4 bonus to your AC
 when you use this reaction.
