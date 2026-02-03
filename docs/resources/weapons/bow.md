@@ -6,6 +6,7 @@ sidebar_position: 19
 
 *Martial or Simple Ranged Weapon*  
 **Compatible Proficiency:** Shortbow, Longbow
+**Compatible Weapon Mastery:** Slow, Vex
 
 *The bow is a mid-range weapon that can perform a variety of attacks. While simple to use, its mastery requires a detailed knowledge of the best combinations of arrows and coatings.*
 

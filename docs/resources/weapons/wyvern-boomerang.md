@@ -6,6 +6,7 @@ sidebar_position: 19
 
 *Martial or Simple Melee Weapon*  
 **Compatible Proficiency:** Greatsword, Any weapon with the Thrown property
+**Compatible Weapon Mastery:** Graze, Slow, Topple
 
 *Its a giant fucking boomerang you need power gauntlets to wield.*
 

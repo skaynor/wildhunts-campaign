@@ -6,6 +6,7 @@ sidebar_position: 9
 
 *Martial or Simple Melee Weapon*  
 **Compatible Proficiency:** Halberd, Glaive, Trident, Javelin, Spear
+**Compatible Weapon Mastery:** Cleave, Grave, Sap, Slow, Topple
 
 *The insect glaive can be used to control a Kinsect, a small insect that harvests extracts from monsters to boost your abilities.*
 

@@ -6,6 +6,7 @@ sidebar_position: 12
 
 *Martial Melee Weapon*  
 **Compatible Proficiency:** Greatsword, Maul
+**Compatible Weapon Mastery:** Graze, Topple
 
 *This weapon is a heavy, melee type weapon with the ability to switch between two different weapon modes: A Slashing mode and an Impact mode. The key aspect of the weapon is its magnetism abilities. Naturally being a large, heavy weapon, it would be difficult to even handle or use in combat, but by manipulating the magnetic force in the weapon most of the weight is lifted, it becomes possible to move so fast that it would otherwise be deemed unnatural.*
 

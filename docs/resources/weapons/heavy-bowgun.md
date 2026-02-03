@@ -6,6 +6,7 @@ sidebar_position: 21
 
 *Martial Ranged Weapon*  
 **Compatible Proficiency:** Heavy Crossbow
+**Compatible Weapon Mastery:** Push
 
 *The Heavy Bowgun is the artillery of ranged weapons. It specializes in high damage rounds at a range. While it does not have the same special effects of the Light Bowgun, the Heavy Bowgun dishes out damage more reliably.*
 

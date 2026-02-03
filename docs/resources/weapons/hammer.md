@@ -6,6 +6,7 @@ sidebar_position: 7
 
 *Martial Melee Weapon*  
 **Compatible Proficiency:** Warhammer, Maul
+**Compatible Weapon Mastery:** Push, Topple
 
 *The hammer is a powerful blunt weapon with a surprising amount of mobility. It's also possible to stun monsters by delivering a hammer attack to the head.*
 

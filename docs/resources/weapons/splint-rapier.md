@@ -6,6 +6,7 @@ sidebar_position: 14
 
 *Martial Melee Weapon*  
 **Compatible Proficiency:** Longsword, Rapier, Shortsword
+**Compatible Weapon Mastery:** Nick, Sap, Vex *(One for each blade while in Splint Mode)*
 
 *As a single rapier, it supports the party. As splint rapiers, it debuffs the enemy.*
 

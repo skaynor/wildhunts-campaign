@@ -6,6 +6,7 @@ sidebar_position: 6
 
 *Martial Melee Weapon*  
 **Compatible Proficiency:** Shield; Lance, Halberd
+**Compatible Weapon Mastery:** Cleave, Topple
 
 *The gunlance offers more offensive power than the lance thanks to the addition of shelling attacks, and it also has good guarding capabilities. It may take time to master.*
 

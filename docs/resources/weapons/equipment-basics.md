@@ -86,6 +86,10 @@ I will allow you to have complete proficiency in one weapon type of your choosin
 
 A character can choose to attune to an “unarmed item” instead of a weapon, such as handwraps, gauntlets, or knuckles. This item is treated as a weapon for upgrading, attunement and material placement. This item has no special properties except that it offers 1 additional material slot per rarity level. E.g. an uncommon "unarmed item" would have 3 material slots rather than 2.
 
+### Weapon Mastery
+
+If your class grants Weapon Mastery, you may select from the Weapon Mastery options listed alongside each weapon's compatible proficiencies. You may only have one weapon mastery active per weapon, unless otherwise specified, and may change the active weapon mastery during a Long Rest.
+
 ### Weapon Rarity
 
 There are 5 rarities of weapons in Monster Hunter: common, uncommon, rare, very rare, and legendary. Each rarity has a number of slots the hunter can place materials into, enhancing their weapon with magical effects. Additionally, as the weapon’s rarity increases their effects also improve.

@@ -6,6 +6,7 @@ sidebar_position: 2
 
 *Martial Melee Weapon*  
 **Compatible Proficiency:** Battleaxe, Greataxe
+**Compatible Weapon Mastery:** Cleave, Topple
 
 *The Accel Axe, also known as the "Axel Axe", it is completely different from the Switch Axe and Charge Blade that were discovered in other ancient ruins. The main feature of the Accel Axe is the artillery mechanism built into the weapon. A heavy-duty single-edged axe with a short reach and a mechanical muzzle attached at the opposite position to the blade.*
 

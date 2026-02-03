@@ -6,6 +6,7 @@ sidebar_position: 13
 
 *Simple Melee Weapon*  
 **Compatible Proficiency:** Quarterstaff
+**Compatible Weapon Mastery:** Topple
 
 *Used more for walking than striking a creature, the magus staves are finely crafted. Inlaid with gems and intricate carvings allowing the casting and storing of spells within them, the Magus Staff are the choice weapon for a spellcaster.*
 

@@ -6,6 +6,7 @@ sidebar_position: 5
 
 *Martial Melee Weapon*  
 **Compatible Proficiency:** Greatsword
+**Compatible Weapon Mastery:** Graze
 
 *A slow, heavy weapon with massive damage potential, the Greatsword is the heavy artillery of melee weapons. While simple at first, the Greatsword requires skilled timing and spacing in order to get the most out of it. On offense, the Greatsword attacks with slow, ponderous swings that hit with precision and accuracy.*
 
