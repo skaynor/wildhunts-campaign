@@ -5,7 +5,7 @@ sidebar_position: 15
 # Switch Axe
 
 *Martial Melee Weapon*  
-**Compatible Proficiency:** Greataxe, Greatsword
+**Compatible Proficiency:** Greataxe, Greatsword  
 **Compatible Weapon Mastery:** Cleave, Graze
 
 *The switch Axe morphs between axe and sword modes. Axe mode boasts long reach, while sword mode features explosive finishers.*

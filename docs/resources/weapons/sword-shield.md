@@ -5,7 +5,7 @@ sidebar_position: 16
 # Sword & Shield
 
 *Martial or Simple Melee Weapon*  
-**Compatible Proficiency:** Shield; Shortsword, Longsword, Scimitar, Light Hammer, Mace
+**Compatible Proficiency:** Shield; Shortsword, Longsword, Scimitar, Light Hammer, Mace  
 **Compatible Weapon Mastery:** Sap, Vex
 
 *Lightweight and easy to use, the sword & shield also boasts outstanding attack speed. The shield can be used to guard, though it may not hold up to certain attacks.*

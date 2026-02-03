@@ -5,7 +5,7 @@ sidebar_position: 22
 # Light Bowgun
 
 *Simple Ranged Weapon*  
-**Compatible Proficiency:** Light Crossbow
+**Compatible Proficiency:** Light Crossbow  
 **Compatible Weapon Mastery:** Slow
 
 *The Light Bowgun is the smallest ranged weapon. It boasts the highest fire rate of the ranged weapons. It also specializes in supporting ammo, such as poison, paralysis and recovery, meaning it can reliably inflict a variety of status effects on the monster while still dealing damage.*

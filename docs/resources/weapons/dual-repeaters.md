@@ -5,7 +5,7 @@ sidebar_position: 20
 # Dual Repeaters
 
 *Martial Ranged Weapon*  
-**Compatible Proficiency:** Firearms, Hand Crossbow
+**Compatible Proficiency:** Firearms, Hand Crossbow  
 **Compatible Weapon Mastery:** Slow, Vex
 
 *A fully-ranged option for the fleet of foot. Dance the line between close and long range as you dish out damage, buffs, and traps. There is a fair amount of damage falloff as you move farther away from behemoths. The closer you are, the more damage you do.*

@@ -5,7 +5,7 @@ sidebar_position: 4
 # Dual Blades
 
 *Martial Melee Weapon*  
-**Compatible Proficiency:** Longsword, Scimitar, Shortsword
+**Compatible Proficiency:** Longsword, Scimitar, Shortsword  
 **Compatible Weapon Mastery:** Nick, Sap, Vex *(One for each Blade)*
 
 *Dual blades unleash a whirlwind of combo attacks on your enemy. Though they're lightweight and relatively simple to use, they cannot be used to guard.*

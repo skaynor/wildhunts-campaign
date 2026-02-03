@@ -5,7 +5,7 @@ sidebar_position: 10
 # Lance
 
 *Martial Melee Weapon*  
-**Compatible Proficiency:** Shield; Lance, Halberd
+**Compatible Proficiency:** Shield; Lance, Halberd  
 **Compatible Weapon Mastery:** Cleave, Topple
 
 *The lance is better at guarding than most weapons. In addition to its long reach, its thrust attacks can be executed with little exposure to enemy attacks. Great for defense- oriented combat.*

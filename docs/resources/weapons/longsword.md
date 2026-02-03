@@ -5,7 +5,7 @@ sidebar_position: 11
 # Longsword
 
 *Martial Melee Weapon*  
-**Compatible Proficiency:** Greatsword, Longsword
+**Compatible Proficiency:** Greatsword, Longsword  
 **Compatible Weapon Mastery:** Graze, Sap
 
 *An elegant weapon, the Long Sword is a well rounded offensive weapon. On top of its solid base moveset, it has a unique Spirit Gauge system. Every non-Spirit attack from the Long Sword charges up a Spirit Gauge that increases attack damage and unlocks Spirit Blade attacks.*

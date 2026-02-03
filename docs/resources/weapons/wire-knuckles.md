@@ -5,7 +5,7 @@ sidebar_position: 18
 # Wire Knuckles
 
 *Simple Melee Weapon*  
-**Compatible Proficiency:** Any
+**Compatible Proficiency:** Any  
 **Compatible Weapon Mastery:** Nick, Push, Sap, Slow, Vex *(One for each hand)*
 
 *Infused with the essence of wirebugs and the strength of ironsilk, these knuckles offer unparalleled agility and graceful maneuvers, seamlessly blending combat finesse with versatile utility and support capabilities.*

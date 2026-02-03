@@ -5,7 +5,7 @@ sidebar_position: 8
 # Hunting Horn
 
 *Martial Melee Weapon*  
-**Compatible Proficiency:** Musical Instrument, Maul, Warhammer
+**Compatible Proficiency:** Musical Instrument, Maul, Warhammer  
 **Compatible Weapon Mastery:** Push, Topple
 
 *The hunting horn is a blunt weapon that can bestow positive status effects on yourself and your allies. Use it to perform melodies that can boost attack power and grant other beneficial effects.*

@@ -5,7 +5,7 @@ sidebar_position: 3
 # Charge Blade
 
 *Martial Melee Weapon*  
-**Compatible Proficiency:** Shield; Greataxe, Shortsword, Longsword, Scimitar
+**Compatible Proficiency:** Shield; Greataxe, Shortsword, Longsword, Scimitar  
 **Compatible Weapon Mastery:** Cleave, Sap, Vex
 
 *Sword mode boasts mobility and high guard capabilities, while axe mode boasts more powerful attacks. Store up energy while in sword mode, and then use it to deal high damage in axe mode.*
