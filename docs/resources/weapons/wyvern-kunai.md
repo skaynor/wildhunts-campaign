@@ -6,7 +6,7 @@ sidebar_position: 19
 
 *Simple Melee Weapon*  
 **Compatible Proficiency:** Dagger, Any weapon with the Thrown property
-**Compatible Weapon Mastery:** Nick, Sap, Slow, Vex *(One for each kunai)*
+**Compatible Weapon Mastery:** Nick, Sap, Slow, Vex *(One for each Kunai)*
 
 *Wyvern Kunai are balanced throwing blades designed to be gripped between the knuckles like clawed talons.*
 
@@ -18,7 +18,7 @@ sidebar_position: 19
 
 ## Nonmagical
 
-*1d4 piercing; finesse, light, thrown (20/60). For each kunai.*
+*1d4 piercing; finesse, light, thrown (20/60). For each Kunai.*
 
 ## Uncommon
 

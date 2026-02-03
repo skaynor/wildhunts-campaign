@@ -6,13 +6,13 @@ sidebar_position: 4
 
 *Martial Melee Weapon*  
 **Compatible Proficiency:** Longsword, Scimitar, Shortsword
-**Compatible Weapon Mastery:** Nick, Sap, Vex *(One for each blade)*
+**Compatible Weapon Mastery:** Nick, Sap, Vex *(One for each Blade)*
 
 *Dual blades unleash a whirlwind of combo attacks on your enemy. Though they're lightweight and relatively simple to use, they cannot be used to guard.*
 
 ## Nonmagical
 
-*15 gp, 1d6 slashing, 2 lb., finesse, light. For each blade.*
+*15 gp, 1d6 slashing, 2 lb., finesse, light. For each Blade.*
 
 ## Uncommon
 

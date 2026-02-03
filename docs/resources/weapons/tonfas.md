@@ -6,7 +6,7 @@ sidebar_position: 17
 
 *Martial or Simple Melee Weapon*  
 **Compatible Proficiency:** Club, Flail, Handaxe, Light Hammer, Mace, Quarterstaff, Warhammer
-**Compatible Weapon Mastery:** Nick, Push, Sap, Slow, Topple, Vex *(One for each tonfa)*
+**Compatible Weapon Mastery:** Nick, Push, Sap, Slow, Topple, Vex *(One for each Tonfa)*
 
 *The Tonfa is made up of two light, swift poles with a propulsion system. Due to this, hunters can easily evade while the weapon is drawn and even propel themselves from the ground.*
 
